@@ -12,6 +12,7 @@ import collections
 import datetime
 import json
 import os
+import re
 import subprocess
 import sys
 
@@ -65,6 +66,24 @@ def main(out_dir):
     fails = [r for r in recs if r.get("status") == "fail"]
     review_path = os.path.join(out_dir, "同名曲待复核.json")
     review = json.load(open(review_path, encoding="utf-8")) if os.path.exists(review_path) else []
+
+    # 以队列为准统计「未获取」，避免把已下架/改名的旧失败记录算进去
+    queue_path = os.path.join(out_dir, "download_queue.json")
+    missing = []
+    if os.path.exists(queue_path):
+        def san(x):
+            x = re.sub(r'[\\/:*?"<>|\x00-\x1f]', "_", x or "")
+            return re.sub(r"\s+", " ", x).strip()[:120]
+        have = set()
+        for d in (out_dir, os.path.join(out_dir, "待复核")):
+            if os.path.isdir(d):
+                have |= {san(os.path.splitext(f)[0]) for f in os.listdir(d)
+                         if f.endswith(AUDIO_EXT)}
+        for x in json.load(open(queue_path, encoding="utf-8")):
+            y = f"[{x['year']}] " if x.get("year") else ""
+            b = san(f"{y}{x.get('artist')} - {x.get('title')}")
+            if b not in have and not any(k.startswith(b[:max(8, len(b) - 3)]) for k in have):
+                missing.append(x)
 
     ok.sort(key=lambda r: (r.get("year") or 0, r.get("artist") or ""))
     total = sum(os.path.getsize(r["path"]) for r in ok)
@@ -122,7 +141,7 @@ def main(out_dir):
     A("| 可下载队列 | 1167 |")
     A(f"| **实际入库** | **{len(ok)}** |")
     A(f"| 待复核（同名不同歌手） | {len(review)} |")
-    A(f"| 未获取（版权下架/仅现场版/广告歌） | {len(fails)} |")
+    A(f"| 未获取（版权下架/仅现场版/广告歌） | {len(missing) if missing else len(fails)} |")
     A("")
     A(f"总体积 **{total / 1e9:.2f} GB**，音质分布："
       + "，".join(f"{k} {v}" for k, v in quality.most_common()) + "\n")
@@ -154,18 +173,19 @@ def main(out_dir):
         if len(review) > 15:
             A(f"\n（完整 {len(review)} 条见 `同名曲待复核.json`）")
         A("")
-    if fails:
+    miss_list = missing or fails
+    if miss_list:
         A("## 六、未获取清单\n")
-        for r in fails[:30]:
+        for r in miss_list[:30]:
             A(f"- {r.get('year') or '----'} {r.get('artist')} - {r.get('title')}")
-        if len(fails) > 30:
-            A(f"\n（共 {len(fails)} 首，完整见 `results.jsonl` 中 status=fail 的记录）")
+        if len(miss_list) > 30:
+            A(f"\n（共 {len(miss_list)} 首，完整见 `download_queue.json` 与 `results.jsonl`）")
 
     md_path = os.path.join(out_dir, "榜单曲库报告.md")
     open(md_path, "w", encoding="utf-8").write("\n".join(L))
 
     print(f"在库 {len(ok)} 首 / {total / 1e9:.2f} GB")
-    print(f"  待复核 {len(review)} 首 | 未获取 {len(fails)} 首")
+    print(f"  待复核 {len(review)} 首 | 未获取 {len(missing) if missing else len(fails)} 首")
     print("  " + "  ".join(f"{k} {v}" for k, v in quality.most_common()))
     print(f"→ {os.path.basename(md_path)} / 曲库清单.csv / {len(groups)} 个 M3U8")
 
