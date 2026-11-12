@@ -292,3 +292,61 @@ curl -s "https://itunes.apple.com/search?term=<歌手>+<专辑>&media=music&enti
 | `scripts/kg-album.ts` | 酷狗专辑级 hash 解析（origin/320/sq），绕过失效的单曲 hash |
 | `album-tanweiwei.ts`（仓库根） | 完整专辑下载范例：按专辑约束匹配 + 逐候选回退 |
 | `album-*.mjs`（仓库根） | 其它专辑的下载脚本模板 |
+| `scripts/wiki_chart.py` | 维基百科榜单条目解析（bullet 列表 + wikitable → 分组/歌名/艺人/名次） |
+| `scripts/collect_annual.py` | 权威年度榜逐届发现 + 跨榜去重统计 |
+| `scripts/make_queue.py` | 去重歌单 → 下载队列（繁转简、剔奖项名/无艺人） |
+| `scripts/chart-download.mjs` | 榜单批量下载：断点续传、并发、JSONL 记录 |
+| `scripts/chart-report.py` | 下载结果汇总 + 按十年生成 M3U8 |
+
+---
+
+## 11. 权威榜单采集（年度榜 → 曲库）
+
+目标：从**权威机构**的年度榜/颁奖礼取歌单，**排除**软件平台自制榜
+（网易云/QQ/酷狗/抖音/Apple/Spotify 等商业榜单）。
+
+### 已覆盖的 7 个榜单家族
+
+| 榜单 | 主办 | 年份 | 逐届页面命名 |
+|---|---|---|---|
+| 十大中文金曲 | 香港电台 | 1979– | `第N屆十大中文金曲得獎名單` |
+| 叱咤乐坛流行榜 | 商业电台 | 1988– | `YYYY年度叱咤樂壇流行榜頒獎典禮得獎名單` |
+| 新城国语力 | 新城电台 | 2002–2015 | `YYYY年度新城國語力頒獎禮得獎名單` |
+| 金曲奖 | 台湾文化部 | 1990– | `第N屆金曲獎` |
+| 东方风云榜 | SMG | 1993– | `第N届东方风云榜` |
+| 全球华语歌曲排行榜 | 七台联办 | 2001–2019 | `第N屆全球華語歌曲排行榜` |
+| 音乐风云榜 | 光线传媒 | 2001–2014 | `第N届音乐风云榜颁奖盛典` |
+
+### 关键陷阱
+
+| 现象 | 原因 | 处理 |
+|---|---|---|
+| 单届解析出 150+ 首 | 把**候選名單**当成获奖名单 | 跳过 `div.mw-collapsible` 内的表格、caption/标题含「候選/落選/入圍」的整表 |
+| 歌名带「（粤语：）」 | 维基模板残留 | `tidy_song()` 清尾部语言/版本注释 |
+| 老届次解析出 0 首 | 格式为 `《歌名》（主唱：X）` 或 `《歌名》——X` | 艺人后置正则 `ARTIST_AFTER` |
+| 繁体歌手名搜不到歌 | 音源以简体索引 | 队列构建时 OpenCC `t2s` |
+| 同一首歌重复 10+ 次 | 跨榜/跨年/同届多奖项 | 归一化 + 标题艺人精确 + 同年代模糊(≥0.90) |
+| 奖项名被当成歌手（"最佳公益歌曲"） | 表格列错位 | `looks_like_award()` 过滤 |
+
+### 流水线
+
+```bash
+# 1) 采集 + 去重（约 10 分钟，写 chart_songs.json / chart_entries.json）
+~/venvs/chartdata/bin/python skills/music/scripts/collect_annual.py
+
+# 2) 生成下载队列（繁转简，剔除脏条目）
+~/venvs/chartdata/bin/python skills/music/scripts/make_queue.py
+
+# 3) 批量下载（断点续传；go-music-dl 需先起服务）
+~/bin/music-dl web --port 8080 &
+MUSIC_ENGINES=ting,go-music-dl \
+  node skills/music/scripts/chart-download.mjs \
+  --queue download_queue.json --out ~/Music/华语年度金曲 --workers 3
+
+# 4) 汇总 + M3U8
+~/venvs/chartdata/bin/python skills/music/scripts/chart-report.py ~/Music/华语年度金曲
+```
+
+依赖：`~/venvs/chartdata`（wikipedia / mwparserfromhell / beautifulsoup4 / lxml / opencc）。
+
+统计口径（2026-11）：7 榜 172 页 → 1472 条目 → **1218 首唯一歌曲**（重复率 17.3%）。
