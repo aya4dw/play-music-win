@@ -34,7 +34,9 @@ const execFileAsync = promisify(execFile);
 const HERE = path.dirname(fileURLToPath(import.meta.url));
 
 const CONFIG = {
-  engines: ['ting', 'go-music-dl', 'musicdl'],
+  engines: (process.env.MUSIC_ENGINES
+    ? process.env.MUSIC_ENGINES.split(',').map(x => x.trim()).filter(Boolean)
+    : ['ting', 'go-music-dl', 'musicdl']),
   goMusicDlBase: process.env.GO_MUSIC_DL_BASE || 'http://127.0.0.1:8080/music',
   tingBin: process.env.TING_BIN || 'ting',
   pythonBin: process.env.PYTHON_BIN || (process.env.MUSICDL_PYTHON || 'python3'),
@@ -387,7 +389,9 @@ async function searchAll(keyword) {
 async function fetchSong(keyword, { out, expect = 0, album = '', name = '' } = {}) {
   fs.mkdirSync(out, { recursive: true });
   const wanted = name || keyword.split(/\s+/)[0];
-  const artist = keyword.split(/\s+/).slice(1).join(' ');
+  const artist = name
+    ? keyword.replace(name, '').replace(/\s+/g, ' ').trim()
+    : keyword.split(/\s+/).slice(1).join(' ');
   console.error(`\n▶ 查找: ${wanted}${artist ? ' / ' + artist : ''}${album ? `  (专辑: ${album})` : ''}`);
 
   for (const ename of CONFIG.engines) {

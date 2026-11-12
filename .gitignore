@@ -9,3 +9,5 @@ coverage
 musicdl_outputs/
 *.mp3
 *.flac
+__pycache__/
+*.pyc
