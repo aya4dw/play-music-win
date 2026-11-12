@@ -41,8 +41,9 @@ const CONFIG = {
   tingBin: process.env.TING_BIN || 'ting',
   pythonBin: process.env.PYTHON_BIN || (process.env.MUSICDL_PYTHON || 'python3'),
   qualityOrder: ['flac', '320k', '128k'],
-  toleranceSec: 25,        // 完整性校验容差（挡下载截断）
-  expectToleranceSec: 8,   // 与参考时长的容差（挡「同名不同录音」）
+  toleranceSec: 60,        // 平台自报时长 vs 实测的容差（元数据常不准；挡截断仍够用）
+  expectToleranceSec: 8,   // 调用方给了 expect 时的严格容差（挡「同名不同录音」）
+  anyArtist: process.env.MUSIC_ANY_ARTIST === '1',  // 找不到原唱时接受同名曲（结果标记 artistMismatch）
   maxCandidatesPerEngine: 6,
 };
 
@@ -294,7 +295,7 @@ const musicdlEngine = {
   async health() {
     try {
       const { stdout } = await runWithStdin(CONFIG.pythonBin, [path.join(HERE, 'musicdl_bridge.py')],
-        JSON.stringify({ op: 'search', keyword: 'test' }), { timeout: 90000 });
+        JSON.stringify({ op: 'health' }), { timeout: 60000 });
       return JSON.parse(stdout)?.ok === true;
     } catch (e) {
       console.error(`    musicdl 健康检查异常: ${e?.message || e}`);
@@ -416,12 +417,21 @@ async function fetchSong(keyword, { out, expect = 0, album = '', name = '' } = {
       continue;
     }
 
+    // 1.4) 时长闸门（挡试听片段/铃声；实测《年轮说》被 59 秒片段顶掉）
+    const MIN_FULL = 90;
+    songs = songs.filter(s => !s.duration || s.duration >= MIN_FULL ||
+      (expect > 0 && Math.abs(s.duration - expect) <= CONFIG.expectToleranceSec));
+
     // 1.5) 艺人必须匹配（挡掉同名不同歌手，如《蝴蝶的翅膀》根呷版）
+    let artistMismatch = false;
     if (artist) {
       const a = norm(artist);
       const byArtist = songs.filter(s => norm(s.artist).includes(a) || a.includes(norm(s.artist)));
       if (byArtist.length) songs = byArtist;
-      else {
+      else if (CONFIG.anyArtist) {
+        artistMismatch = true;
+        console.error(`  ⚠ ${ename}: 无「${artist}」版本，放宽为同名曲`);
+      } else {
         console.error(`  ⏭ ${ename}: 无匹配「${artist}」的曲目`);
         continue;
       }
@@ -509,7 +519,9 @@ async function fetchSong(keyword, { out, expect = 0, album = '', name = '' } = {
       }
 
       const ext = path.extname(fp).toLowerCase();
-      const dest = path.join(out, `${song.name}${ext}`);
+      // 歌名可能含 / : ? 等非法字符（如《50/50》），落盘前必须清洗
+      const safeName = String(song.name || wanted).replace(/[\\/:*?"<>|\u0000-\u001f]/g, '_').trim();
+      const dest = path.join(out, `${safeName}${ext}`);
       fs.renameSync(fp, dest);
       fs.rmSync(tmpDir, { recursive: true, force: true });
       const q = qualityOfFile(v);
@@ -518,6 +530,7 @@ async function fetchSong(keyword, { out, expect = 0, album = '', name = '' } = {
         ok: true, engine: ename, source: song.source, path: dest,
         quality: q, duration: v.dur, codec: v.codec,
         name: song.name, artist: song.artist, album: song.album,
+        artistMismatch,
       };
     }
   }

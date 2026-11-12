@@ -327,6 +327,10 @@ curl -s "https://itunes.apple.com/search?term=<歌手>+<专辑>&media=music&enti
 | 繁体歌手名搜不到歌 | 音源以简体索引 | 队列构建时 OpenCC `t2s` |
 | 同一首歌重复 10+ 次 | 跨榜/跨年/同届多奖项 | 归一化 + 标题艺人精确 + 同年代模糊(≥0.90) |
 | 奖项名被当成歌手（"最佳公益歌曲"） | 表格列错位 | `looks_like_award()` 过滤 |
+| 歌手名带 `[ 注 1 ]` | 维基脚注 `<sup>` 混入正文 | `clean()` 先剥 `[注 N]`，再取链接文字 |
+| 歌名含 `/`（如《50/50》）落盘报 ENOENT | 歌名直接当文件名 | 落盘前把 `/ : * ?` 换成 `_` |
+| 下到 30–60 秒片段 | 平台把试听片段也列进搜索结果 | 候选时长 < 90 秒直接丢弃 |
+| 「时长偏离预期」误杀正常文件 | 平台元数据时长不准 | 自报时长只做粗筛（容差 60 秒），`--expect` 才用 8 秒严格闸门 |
 
 ### 流水线
 
@@ -343,9 +347,21 @@ MUSIC_ENGINES=ting,go-music-dl \
   node skills/music/scripts/chart-download.mjs \
   --queue download_queue.json --out ~/Music/华语年度金曲 --workers 3
 
-# 4) 汇总 + M3U8
-~/venvs/chartdata/bin/python skills/music/scripts/chart-report.py ~/Music/华语年度金曲
+# 4) 失败重试（严格轮 → 同名曲放宽轮；同名曲标记 artistMismatch 待复核）
+node skills/music/scripts/chart-retry.mjs --out ~/Music/华语年度金曲 --workers 2
+
+# 5) 汇总报告 + CSV 清单 + 按十年 M3U8
+~/venvs/chartdata/bin/python skills/music/scripts/chart-summary.py ~/Music/华语年度金曲
 ```
+
+### 批量下载的几个硬约束
+
+- **断点续传**：目标文件已存在即跳过，重复跑同一条命令不会重复下载。
+- **失败可重入**：失败项写进 `failures.json`，直接把它当队列重跑即可。
+- **熔断是进程内的**：单个适配器进程里同一音源连续 3 次校验失败会冷却 5 分钟，
+  所以批量下载宁可多进程串行重试，也不要无限加大并发。
+- **musicdl 只适合兜底**：单次搜索要 2 分钟以上，不适合全量下载；健康检查用
+  `{"op":"health"}` 快速返回，避免被 90 秒超时误判为不可用。
 
 依赖：`~/venvs/chartdata`（wikipedia / mwparserfromhell / beautifulsoup4 / lxml / opencc）。
 

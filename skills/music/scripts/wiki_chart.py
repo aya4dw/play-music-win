@@ -88,7 +88,8 @@ NON_SONG_KEYS = ("唱片", "專輯", "专辑", "歌手", "新人", "樂隊", "�
 
 
 def clean(s):
-    s = re.sub(r"\[\s*\d+\s*\]", "", s or "")
+    # 脚注：[1] / [ 註 1 ] / [ 注 1 ] / [nb 1] —— 不清掉会污染艺人与歌名
+    s = re.sub(r"\[\s*(?:註|注|nb|Note)?\s*\d+\s*\]", "", s or "", flags=re.I)
     s = s.replace("\xa0", " ").replace("", "")
     return re.sub(r"\s+", " ", s).strip()
 
@@ -278,9 +279,12 @@ def parse_html(html):
         links = [clean(a.get_text(" ", strip=True)) for a in li.find_all("a")]
         artist = ""
         for a in links:
-            if a and a not in song and len(a) <= 30:
-                artist = a
-                break
+            if not a or a == song or len(a) > 30:
+                continue
+            if re.fullmatch(r"[\[\]（）()\s]*(?:註|注|nb)?\s*\d*[\[\]（）()\s]*", a, flags=re.I):
+                continue
+            artist = a
+            break
         if not artist:
             tail = txt[m.end():]
             am = ARTIST_AFTER.search(tail)

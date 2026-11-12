@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T19:51:00",
+ "generated_at": "2026-11-12T20:23:35",
  "families": [
   {
    "family": "十大中文金曲",
@@ -59,8 +59,8 @@
   }
  ],
  "total_entries": 1472,
- "total_songs": 1218,
- "duplicate_entries": 254,
+ "total_songs": 1207,
+ "duplicate_entries": 265,
  "songs": [
   {
    "id": "s00000",
@@ -620,9 +620,9 @@
   },
   {
    "id": "s00026",
-   "title": "全民皆估 [ 註 1 ]",
+   "title": "全民皆估",
    "title_variants": [
-    "全民皆估 [ 註 1 ]"
+    "全民皆估"
    ],
    "artist": "農夫",
    "artist_variants": [
@@ -665,9 +665,9 @@
   },
   {
    "id": "s00028",
-   "title": "愛不疚 [ 註 1 ]",
+   "title": "愛不疚",
    "title_variants": [
-    "愛不疚 [ 註 1 ]"
+    "愛不疚"
    ],
    "artist": "林峯",
    "artist_variants": [
@@ -686,9 +686,9 @@
   },
   {
    "id": "s00029",
-   "title": "分手要狠 [ 註 1 ]",
+   "title": "分手要狠",
    "title_variants": [
-    "分手要狠 [ 註 1 ]"
+    "分手要狠"
    ],
    "artist": "吳雨霏",
    "artist_variants": [
@@ -905,9 +905,9 @@
   },
   {
    "id": "s00039",
-   "title": "越難越愛 [ 註 1 ]",
+   "title": "越難越愛",
    "title_variants": [
-    "越難越愛 [ 註 1 ]"
+    "越難越愛"
    ],
    "artist": "吳若希",
    "artist_variants": [
@@ -947,24 +947,26 @@
   },
   {
    "id": "s00041",
-   "title": "流淚行勝利道 [ 註 1 ]",
+   "title": "流淚行勝利道",
    "title_variants": [
-    "流淚行勝利道 [ 註 1 ]"
+    "流淚行勝利道"
    ],
    "artist": "許志安",
    "artist_variants": [
     "許志安"
    ],
    "families": [
-    "十大中文金曲"
+    "十大中文金曲",
+    "叱咤乐坛流行榜"
    ],
    "years": [
     2015
    ],
    "groups": [
-    "十大中文金曲"
+    "十大中文金曲",
+    "叱咤樂壇我最喜愛的歌曲大獎"
    ],
-   "occurrences": 1
+   "occurrences": 2
   },
   {
    "id": "s00042",
@@ -1036,9 +1038,9 @@
    "title_variants": [
     "破相"
    ],
-   "artist": "容祖兒 [ 註 1 ]",
+   "artist": "容祖兒",
    "artist_variants": [
-    "容祖兒 [ 註 1 ]"
+    "容祖兒"
    ],
    "families": [
     "十大中文金曲"
@@ -1102,9 +1104,9 @@
    "title_variants": [
     "時代"
    ],
-   "artist": "古巨基 [ 註 1 ]",
+   "artist": "古巨基",
    "artist_variants": [
-    "古巨基 [ 註 1 ]"
+    "古巨基"
    ],
    "families": [
     "十大中文金曲"
@@ -1144,9 +1146,9 @@
    "title_variants": [
     "不要驚動愛情"
    ],
-   "artist": "鄭秀文 [ 註 1 ]",
+   "artist": "鄭秀文",
    "artist_variants": [
-    "鄭秀文 [ 註 1 ]"
+    "鄭秀文"
    ],
    "families": [
     "十大中文金曲"
@@ -1182,9 +1184,9 @@
   },
   {
    "id": "s00052",
-   "title": "Get Over You [ 註 2 ]",
+   "title": "Get Over You",
    "title_variants": [
-    "Get Over You [ 註 2 ]"
+    "Get Over You"
    ],
    "artist": "G.E.M.",
    "artist_variants": [
@@ -1267,24 +1269,26 @@
   },
   {
    "id": "s00056",
-   "title": "百姓 [ 註 1 ]",
+   "title": "百姓",
    "title_variants": [
-    "百姓 [ 註 1 ]"
+    "百姓"
    ],
    "artist": "吳業坤",
    "artist_variants": [
     "吳業坤"
    ],
    "families": [
-    "十大中文金曲"
+    "十大中文金曲",
+    "叱咤乐坛流行榜"
    ],
    "years": [
     2017
    ],
    "groups": [
-    "十大中文金曲"
+    "十大中文金曲",
+    "專業推介．叱 十大"
    ],
-   "occurrences": 1
+   "occurrences": 2
   },
   {
    "id": "s00057",
@@ -1597,24 +1601,26 @@
   },
   {
    "id": "s00071",
-   "title": "原來過得很快樂 [ 註 1 ]",
+   "title": "原來過得很快樂",
    "title_variants": [
-    "原來過得很快樂 [ 註 1 ]"
+    "原來過得很快樂"
    ],
    "artist": "楊千嬅",
    "artist_variants": [
     "楊千嬅"
    ],
    "families": [
-    "十大中文金曲"
+    "十大中文金曲",
+    "叱咤乐坛流行榜"
    ],
    "years": [
     2010
    ],
    "groups": [
-    "十大中文金曲"
+    "十大中文金曲",
+    "專業推介．叱 十大"
    ],
-   "occurrences": 1
+   "occurrences": 2
   },
   {
    "id": "s00072",
@@ -1932,9 +1938,9 @@
   },
   {
    "id": "s00086",
-   "title": "到此為止 [ 註 1 ]",
+   "title": "到此為止",
    "title_variants": [
-    "到此為止 [ 註 1 ]"
+    "到此為止"
    ],
    "artist": "連詩雅",
    "artist_variants": [
@@ -1995,24 +2001,26 @@
   },
   {
    "id": "s00089",
-   "title": "年少無知 [ 註 1 ]",
+   "title": "年少無知",
    "title_variants": [
-    "年少無知 [ 註 1 ]"
+    "年少無知"
    ],
    "artist": "林保怡、陳豪、黃德斌",
    "artist_variants": [
     "林保怡、陳豪、黃德斌"
    ],
    "families": [
-    "十大中文金曲"
+    "十大中文金曲",
+    "叱咤乐坛流行榜"
    ],
    "years": [
     2013
    ],
    "groups": [
-    "十大中文金曲"
+    "十大中文金曲",
+    "叱咤樂壇我最喜愛的歌曲大獎"
    ],
-   "occurrences": 1
+   "occurrences": 2
   },
   {
    "id": "s00090",
@@ -2148,9 +2156,9 @@
   },
   {
    "id": "s00096",
-   "title": "逾越生死 [ 註 1 ]",
+   "title": "逾越生死",
    "title_variants": [
-    "逾越生死 [ 註 1 ]"
+    "逾越生死"
    ],
    "artist": "C AllStar",
    "artist_variants": [
@@ -2499,9 +2507,9 @@
   },
   {
    "id": "s00112",
-   "title": "歲月如歌 [ 註 1 ]",
+   "title": "歲月如歌",
    "title_variants": [
-    "歲月如歌 [ 註 1 ]"
+    "歲月如歌"
    ],
    "artist": "張智霖",
    "artist_variants": [
@@ -2658,9 +2666,9 @@
   },
   {
    "id": "s00119",
-   "title": "爆了 [ 註 1 ]",
+   "title": "爆了",
    "title_variants": [
-    "爆了 [ 註 1 ]"
+    "爆了"
    ],
    "artist": "古巨基",
    "artist_variants": [
@@ -3031,9 +3039,9 @@
   },
   {
    "id": "s00135",
-   "title": "電燈膽 [ 註 1 ]",
+   "title": "電燈膽",
    "title_variants": [
-    "電燈膽 [ 註 1 ]"
+    "電燈膽"
    ],
    "artist": "鄧麗欣",
    "artist_variants": [
@@ -4990,24 +4998,26 @@
   },
   {
    "id": "s00225",
-   "title": "高妹正傳 [ 註 1 ]",
+   "title": "高妹正傳",
    "title_variants": [
-    "高妹正傳 [ 註 1 ]"
+    "高妹正傳"
    ],
    "artist": "梁詠琪",
    "artist_variants": [
     "梁詠琪"
    ],
    "families": [
-    "十大中文金曲"
+    "十大中文金曲",
+    "叱咤乐坛流行榜"
    ],
    "years": [
     2003
    ],
    "groups": [
-    "十大中文金曲名單"
+    "十大中文金曲名單",
+    "專業推介．叱 十大"
    ],
-   "occurrences": 1
+   "occurrences": 2
   },
   {
    "id": "s00226",
@@ -5129,9 +5139,9 @@
   },
   {
    "id": "s00231",
-   "title": "他約我去迪士尼 [ 註 1 ]",
+   "title": "他約我去迪士尼",
    "title_variants": [
-    "他約我去迪士尼 [ 註 1 ]"
+    "他約我去迪士尼"
    ],
    "artist": "陳慧琳、Kellyjackie",
    "artist_variants": [
@@ -5267,24 +5277,27 @@
   },
   {
    "id": "s00237",
-   "title": "可惜我是水瓶座 [ 註 1 ]",
+   "title": "可惜我是水瓶座",
    "title_variants": [
-    "可惜我是水瓶座 [ 註 1 ]"
+    "可惜我是水瓶座"
    ],
    "artist": "楊千嬅",
    "artist_variants": [
     "楊千嬅"
    ],
    "families": [
-    "十大中文金曲"
+    "十大中文金曲",
+    "叱咤乐坛流行榜"
    ],
    "years": [
-    2003
+    2003,
+    2004
    ],
    "groups": [
-    "十大中文金曲得獎名單"
+    "十大中文金曲得獎名單",
+    "叱咤樂壇我最喜愛的歌曲大獎"
    ],
-   "occurrences": 1
+   "occurrences": 2
   },
   {
    "id": "s00238",
@@ -5422,30 +5435,33 @@
   },
   {
    "id": "s00244",
-   "title": "好心好報 [ 註 1 ]",
+   "title": "好心好報",
    "title_variants": [
-    "好心好報 [ 註 1 ]"
+    "好心好報"
    ],
    "artist": "方力申",
    "artist_variants": [
     "方力申"
    ],
    "families": [
-    "十大中文金曲"
+    "十大中文金曲",
+    "叱咤乐坛流行榜"
    ],
    "years": [
-    2003
+    2003,
+    2004
    ],
    "groups": [
-    "十大中文金曲得獎名單"
+    "十大中文金曲得獎名單",
+    "叱咤樂壇我最喜愛的歌曲大獎"
    ],
-   "occurrences": 1
+   "occurrences": 2
   },
   {
    "id": "s00245",
-   "title": "七友 [ 註 1 ]",
+   "title": "七友",
    "title_variants": [
-    "七友 [ 註 1 ]"
+    "七友"
    ],
    "artist": "梁漢文",
    "artist_variants": [
@@ -5678,9 +5694,9 @@
    "title_variants": [
     "Para Para Sakura"
    ],
-   "artist": "[ 註 1 ]",
+   "artist": "郭富城",
    "artist_variants": [
-    "[ 註 1 ]"
+    "郭富城"
    ],
    "families": [
     "十大中文金曲"
@@ -7450,9 +7466,9 @@
   },
   {
    "id": "s00339",
-   "title": "心酸的情歌 [ 註 1 ]",
+   "title": "心酸的情歌",
    "title_variants": [
-    "心酸的情歌 [ 註 1 ]"
+    "心酸的情歌"
    ],
    "artist": "巫啟賢",
    "artist_variants": [
@@ -7555,9 +7571,9 @@
   },
   {
    "id": "s00344",
-   "title": "冷戰 [ 註 1 ]",
+   "title": "冷戰",
    "title_variants": [
-    "冷戰 [ 註 1 ]"
+    "冷戰"
    ],
    "artist": "王靖雯",
    "artist_variants": [
@@ -8013,9 +8029,9 @@
    "title_variants": [
     "友情歲月"
    ],
-   "artist": "[ 註 1 ]",
+   "artist": "鄭伊健",
    "artist_variants": [
-    "[ 註 1 ]"
+    "鄭伊健"
    ],
    "families": [
     "十大中文金曲"
@@ -8679,9 +8695,9 @@
    "title_variants": [
     "（你沒有）好結果"
    ],
-   "artist": "[ 註 1 ]",
+   "artist": "李蕙敏",
    "artist_variants": [
-    "[ 註 1 ]"
+    "李蕙敏"
    ],
    "families": [
     "十大中文金曲"
@@ -8789,9 +8805,9 @@
    "title_variants": [
     "如夢初醒"
    ],
-   "artist": "[ 註 1 ]",
+   "artist": "彭羚",
    "artist_variants": [
-    "[ 註 1 ]"
+    "彭羚"
    ],
    "families": [
     "十大中文金曲"
@@ -9088,9 +9104,9 @@
    "title_variants": [
     "海闊天空"
    ],
-   "artist": "[ 註 1 ]",
+   "artist": "Beyond",
    "artist_variants": [
-    "[ 註 1 ]"
+    "Beyond"
    ],
    "families": [
     "十大中文金曲"
@@ -9654,9 +9670,9 @@
    "title_variants": [
     "漸漸"
    ],
-   "artist": "陳奕迅 [ 註 1 ]",
+   "artist": "陳奕迅",
    "artist_variants": [
-    "陳奕迅 [ 註 1 ]"
+    "陳奕迅"
    ],
    "families": [
     "十大中文金曲"
@@ -9758,9 +9774,9 @@
   },
   {
    "id": "s00447",
-   "title": "小問題 [ 註 2 ]",
+   "title": "小問題",
    "title_variants": [
-    "小問題 [ 註 2 ]"
+    "小問題"
    ],
    "artist": "AGA",
    "artist_variants": [
@@ -9821,14 +9837,12 @@
   },
   {
    "id": "s00450",
-   "title": "假使世界原來不像你預期 [ 註 2 ]",
+   "title": "假使世界原來不像你預期",
    "title_variants": [
-    "假使世界原來不像你預期 [ 註 2 ]",
     "假使世界原來不像你預期"
    ],
-   "artist": "方皓玟 [ 註 1 ]",
+   "artist": "方皓玟",
    "artist_variants": [
-    "方皓玟 [ 註 1 ]",
     "方皓玟"
    ],
    "families": [
@@ -9847,9 +9861,9 @@
   },
   {
    "id": "s00451",
-   "title": "孝順 [ 註 2 ]",
+   "title": "孝順",
    "title_variants": [
-    "孝順 [ 註 2 ]"
+    "孝順"
    ],
    "artist": "吳業坤",
    "artist_variants": [
@@ -9868,9 +9882,9 @@
   },
   {
    "id": "s00452",
-   "title": "到此一遊 [ 註 2 ]",
+   "title": "到此一遊",
    "title_variants": [
-    "到此一遊 [ 註 2 ]"
+    "到此一遊"
    ],
    "artist": "胡鴻鈞",
    "artist_variants": [
@@ -10047,9 +10061,9 @@
    "title_variants": [
     "懷疑人生"
    ],
-   "artist": "MC 張天賦 [ 註 1 ]",
+   "artist": "MC 張天賦",
    "artist_variants": [
-    "MC 張天賦 [ 註 1 ]",
+    "MC 張天賦",
     "MC張天賦"
    ],
    "families": [
@@ -10219,45 +10233,49 @@
   },
   {
    "id": "s00468",
-   "title": "感情這回事 [ 註 1 ]",
+   "title": "感情這回事",
    "title_variants": [
-    "感情這回事 [ 註 1 ]"
+    "感情這回事"
    ],
    "artist": "陳柏宇",
    "artist_variants": [
     "陳柏宇"
    ],
    "families": [
-    "十大中文金曲"
+    "十大中文金曲",
+    "叱咤乐坛流行榜"
    ],
    "years": [
     2021
    ],
    "groups": [
-    "十大中文金曲"
+    "十大中文金曲",
+    "專業推介．叱 十大"
    ],
-   "occurrences": 1
+   "occurrences": 2
   },
   {
    "id": "s00469",
-   "title": "一人之境 [ 註 1 ]",
+   "title": "一人之境",
    "title_variants": [
-    "一人之境 [ 註 1 ]"
+    "一人之境"
    ],
    "artist": "林家謙",
    "artist_variants": [
     "林家謙"
    ],
    "families": [
-    "十大中文金曲"
+    "十大中文金曲",
+    "叱咤乐坛流行榜"
    ],
    "years": [
     2021
    ],
    "groups": [
-    "十大中文金曲"
+    "十大中文金曲",
+    "叱咤樂壇我最喜愛的歌曲大獎"
    ],
-   "occurrences": 1
+   "occurrences": 2
   },
   {
    "id": "s00470",
@@ -10327,9 +10345,9 @@
   },
   {
    "id": "s00473",
-   "title": "其實寂寞 [ 註 1 ]",
+   "title": "其實寂寞",
    "title_variants": [
-    "其實寂寞 [ 註 1 ]"
+    "其實寂寞"
    ],
    "artist": "謝安琪",
    "artist_variants": [
@@ -10348,9 +10366,9 @@
   },
   {
    "id": "s00474",
-   "title": "但願人長久 [ 註 1 ]",
+   "title": "但願人長久",
    "title_variants": [
-    "但願人長久 [ 註 1 ]"
+    "但願人長久"
    ],
    "artist": "Hana菊梓喬",
    "artist_variants": [
@@ -10432,24 +10450,26 @@
   },
   {
    "id": "s00478",
-   "title": "最後的信仰 [ 註 1 ]",
+   "title": "最後的信仰",
    "title_variants": [
-    "最後的信仰 [ 註 1 ]"
+    "最後的信仰"
    ],
    "artist": "林二汶",
    "artist_variants": [
     "林二汶"
    ],
    "families": [
-    "十大中文金曲"
+    "十大中文金曲",
+    "叱咤乐坛流行榜"
    ],
    "years": [
     2020
    ],
    "groups": [
-    "十大中文金曲"
+    "十大中文金曲",
+    "專業推介．叱 十大"
    ],
-   "occurrences": 1
+   "occurrences": 2
   },
   {
    "id": "s00479",
@@ -10546,9 +10566,9 @@
   },
   {
    "id": "s00483",
-   "title": "魔氈 [ 註 1 ]",
+   "title": "魔氈",
    "title_variants": [
-    "魔氈 [ 註 1 ]"
+    "魔氈"
    ],
    "artist": "Mike 曾比特",
    "artist_variants": [
@@ -10613,9 +10633,9 @@
   },
   {
    "id": "s00486",
-   "title": "為何嚴重到這樣 [ 註 1 ]",
+   "title": "為何嚴重到這樣",
    "title_variants": [
-    "為何嚴重到這樣 [ 註 1 ]"
+    "為何嚴重到這樣"
    ],
    "artist": "Dear Jane",
    "artist_variants": [
@@ -10638,9 +10658,8 @@
    "title_variants": [
     "隱形遊樂場"
    ],
-   "artist": "張敬軒 [ 註 2 ]",
+   "artist": "張敬軒",
    "artist_variants": [
-    "張敬軒 [ 註 2 ]",
     "張敬軒"
    ],
    "families": [
@@ -10683,9 +10702,9 @@
    "title_variants": [
     "遺忘了初心的我們"
    ],
-   "artist": "魏浚笙 [ 註 3 ]",
+   "artist": "魏浚笙",
    "artist_variants": [
-    "魏浚笙 [ 註 3 ]"
+    "魏浚笙"
    ],
    "families": [
     "十大中文金曲"
@@ -10704,9 +10723,9 @@
    "title_variants": [
     "懷舊是一種品味"
    ],
-   "artist": "陳柏宇 [ 註 4 ]",
+   "artist": "陳柏宇",
    "artist_variants": [
-    "陳柏宇 [ 註 4 ]"
+    "陳柏宇"
    ],
    "families": [
     "十大中文金曲"
@@ -11199,24 +11218,27 @@
   },
   {
    "id": "s00513",
-   "title": "長相廝守 [ 註 1 ]",
+   "title": "長相廝守",
    "title_variants": [
-    "長相廝守 [ 註 1 ]"
+    "長相廝守"
    ],
    "artist": "ToNick",
    "artist_variants": [
     "ToNick"
    ],
    "families": [
-    "十大中文金曲"
+    "十大中文金曲",
+    "叱咤乐坛流行榜"
    ],
    "years": [
     2018
    ],
    "groups": [
-    "十大中文金曲"
+    "十大中文金曲",
+    "叱咤樂壇我最喜愛的歌曲大獎",
+    "專業推介．叱 十大"
    ],
-   "occurrences": 1
+   "occurrences": 3
   },
   {
    "id": "s00514",
@@ -14073,9 +14095,9 @@
    "title_variants": [
     "路過蜻蜓"
    ],
-   "artist": "張國榮 [ 註 1 ]",
+   "artist": "張國榮",
    "artist_variants": [
-    "張國榮 [ 註 1 ]"
+    "張國榮"
    ],
    "families": [
     "叱咤乐坛流行榜"
@@ -14450,27 +14472,6 @@
   },
   {
    "id": "s00667",
-   "title": "高妹正傳",
-   "title_variants": [
-    "高妹正傳"
-   ],
-   "artist": "梁詠琪",
-   "artist_variants": [
-    "梁詠琪"
-   ],
-   "families": [
-    "叱咤乐坛流行榜"
-   ],
-   "years": [
-    2003
-   ],
-   "groups": [
-    "專業推介．叱 十大"
-   ],
-   "occurrences": 1
-  },
-  {
-   "id": "s00668",
    "title": "必殺技",
    "title_variants": [
     "必殺技"
@@ -14492,7 +14493,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00669",
+   "id": "s00668",
    "title": "愛一個人",
    "title_variants": [
     "愛一個人"
@@ -14513,7 +14514,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00670",
+   "id": "s00669",
    "title": "獻世",
    "title_variants": [
     "獻世"
@@ -14534,7 +14535,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00671",
+   "id": "s00670",
    "title": "我不會唱歌",
    "title_variants": [
     "我不會唱歌"
@@ -14555,7 +14556,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00672",
+   "id": "s00671",
    "title": "落地開花",
    "title_variants": [
     "落地開花"
@@ -14576,7 +14577,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00673",
+   "id": "s00672",
    "title": "下落不明",
    "title_variants": [
     "下落不明"
@@ -14597,7 +14598,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00674",
+   "id": "s00673",
    "title": "一步一生",
    "title_variants": [
     "一步一生"
@@ -14618,49 +14619,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00675",
-   "title": "可惜我是水瓶座",
-   "title_variants": [
-    "可惜我是水瓶座"
-   ],
-   "artist": "楊千嬅",
-   "artist_variants": [
-    "楊千嬅"
-   ],
-   "families": [
-    "叱咤乐坛流行榜"
-   ],
-   "years": [
-    2004
-   ],
-   "groups": [
-    "叱咤樂壇我最喜愛的歌曲大獎"
-   ],
-   "occurrences": 1
-  },
-  {
-   "id": "s00676",
-   "title": "好心好報",
-   "title_variants": [
-    "好心好報"
-   ],
-   "artist": "方力申",
-   "artist_variants": [
-    "方力申"
-   ],
-   "families": [
-    "叱咤乐坛流行榜"
-   ],
-   "years": [
-    2004
-   ],
-   "groups": [
-    "叱咤樂壇我最喜愛的歌曲大獎"
-   ],
-   "occurrences": 1
-  },
-  {
-   "id": "s00677",
+   "id": "s00674",
    "title": "兩個人的幸運",
    "title_variants": [
     "兩個人的幸運"
@@ -14681,7 +14640,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00678",
+   "id": "s00675",
    "title": "講妳知",
    "title_variants": [
     "講妳知"
@@ -14702,7 +14661,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00679",
+   "id": "s00676",
    "title": "翡翠劇場",
    "title_variants": [
     "翡翠劇場"
@@ -14723,7 +14682,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00680",
+   "id": "s00677",
    "title": "大雄",
    "title_variants": [
     "大雄"
@@ -14744,7 +14703,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00681",
+   "id": "s00678",
    "title": "香港地",
    "title_variants": [
     "香港地"
@@ -14765,7 +14724,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00682",
+   "id": "s00679",
    "title": "一拍兩散",
    "title_variants": [
     "一拍兩散"
@@ -14787,7 +14746,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00683",
+   "id": "s00680",
    "title": "寂寞的人有福了",
    "title_variants": [
     "寂寞的人有福了"
@@ -14808,7 +14767,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00684",
+   "id": "s00681",
    "title": "男子組",
    "title_variants": [
     "男子組"
@@ -14830,7 +14789,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00685",
+   "id": "s00682",
    "title": "我得你",
    "title_variants": [
     "我得你"
@@ -14852,7 +14811,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00686",
+   "id": "s00683",
    "title": "小黑與我",
    "title_variants": [
     "小黑與我"
@@ -14874,7 +14833,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00687",
+   "id": "s00684",
    "title": "雌雄同體",
    "title_variants": [
     "雌雄同體"
@@ -14896,7 +14855,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00688",
+   "id": "s00685",
    "title": "我們",
    "title_variants": [
     "我們"
@@ -14918,7 +14877,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00689",
+   "id": "s00686",
    "title": "好兄弟",
    "title_variants": [
     "好兄弟"
@@ -14939,7 +14898,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00690",
+   "id": "s00687",
    "title": "光明會",
    "title_variants": [
     "光明會"
@@ -14961,7 +14920,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00691",
+   "id": "s00688",
    "title": "小峽谷之1234",
    "title_variants": [
     "小峽谷之1234"
@@ -14982,7 +14941,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00692",
+   "id": "s00689",
    "title": "大愛",
    "title_variants": [
     "大愛"
@@ -15003,7 +14962,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00693",
+   "id": "s00690",
    "title": "愛你變成恨你",
    "title_variants": [
     "愛你變成恨你"
@@ -15024,7 +14983,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00694",
+   "id": "s00691",
    "title": "愁人節",
    "title_variants": [
     "愁人節"
@@ -15046,7 +15005,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00695",
+   "id": "s00692",
    "title": "離家出走",
    "title_variants": [
     "離家出走"
@@ -15067,7 +15026,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00696",
+   "id": "s00693",
    "title": "笑忘書",
    "title_variants": [
     "笑忘書"
@@ -15088,7 +15047,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00697",
+   "id": "s00694",
    "title": "我的生存之道",
    "title_variants": [
     "我的生存之道"
@@ -15109,7 +15068,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00698",
+   "id": "s00695",
    "title": "畫意",
    "title_variants": [
     "畫意"
@@ -15130,7 +15089,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00699",
+   "id": "s00696",
    "title": "Crying In The Party",
    "title_variants": [
     "Crying In The Party"
@@ -15152,7 +15111,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00700",
+   "id": "s00697",
    "title": "木紋",
    "title_variants": [
     "木紋"
@@ -15176,7 +15135,7 @@
    "occurrences": 3
   },
   {
-   "id": "s00701",
+   "id": "s00698",
    "title": "前程錦繡",
    "title_variants": [
     "前程錦繡"
@@ -15197,7 +15156,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00702",
+   "id": "s00699",
    "title": "東京鐵塔下gulugulu",
    "title_variants": [
     "東京鐵塔下gulugulu",
@@ -15220,7 +15179,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00703",
+   "id": "s00700",
    "title": "All About Love",
    "title_variants": [
     "All About Love"
@@ -15241,7 +15200,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00704",
+   "id": "s00701",
    "title": "節外生枝",
    "title_variants": [
     "節外生枝"
@@ -15262,7 +15221,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00705",
+   "id": "s00702",
    "title": "Binary",
    "title_variants": [
     "Binary"
@@ -15283,7 +15242,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00706",
+   "id": "s00703",
    "title": "Love Song",
    "title_variants": [
     "Love Song"
@@ -15308,7 +15267,7 @@
    "occurrences": 3
   },
   {
-   "id": "s00707",
+   "id": "s00704",
    "title": "下次再見",
    "title_variants": [
     "下次再見"
@@ -15329,7 +15288,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00708",
+   "id": "s00705",
    "title": "跑步機上",
    "title_variants": [
     "跑步機上"
@@ -15350,7 +15309,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00709",
+   "id": "s00706",
    "title": "ABC",
    "title_variants": [
     "ABC"
@@ -15371,7 +15330,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00710",
+   "id": "s00707",
    "title": "路...一直都在",
    "title_variants": [
     "路...一直都在"
@@ -15396,7 +15355,7 @@
    "occurrences": 3
   },
   {
-   "id": "s00711",
+   "id": "s00708",
    "title": "舉高隻手",
    "title_variants": [
     "舉高隻手"
@@ -15417,7 +15376,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00712",
+   "id": "s00709",
    "title": "我哋大家",
    "title_variants": [
     "我哋大家"
@@ -15438,7 +15397,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00713",
+   "id": "s00710",
    "title": "與蝶同眠",
    "title_variants": [
     "與蝶同眠"
@@ -15459,7 +15418,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00714",
+   "id": "s00711",
    "title": "阿波羅",
    "title_variants": [
     "阿波羅"
@@ -15480,28 +15439,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00715",
-   "title": "原來過得很快樂",
-   "title_variants": [
-    "原來過得很快樂"
-   ],
-   "artist": "楊千嬅",
-   "artist_variants": [
-    "楊千嬅"
-   ],
-   "families": [
-    "叱咤乐坛流行榜"
-   ],
-   "years": [
-    2010
-   ],
-   "groups": [
-    "專業推介．叱 十大"
-   ],
-   "occurrences": 1
-  },
-  {
-   "id": "s00716",
+   "id": "s00712",
    "title": "給自己的信",
    "title_variants": [
     "給自己的信"
@@ -15522,7 +15460,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00717",
+   "id": "s00713",
    "title": "弱水三千",
    "title_variants": [
     "弱水三千"
@@ -15543,7 +15481,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00718",
+   "id": "s00714",
    "title": "妮歌",
    "title_variants": [
     "妮歌"
@@ -15564,7 +15502,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00719",
+   "id": "s00715",
    "title": "沙龍",
    "title_variants": [
     "沙龍"
@@ -15585,7 +15523,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00720",
+   "id": "s00716",
    "title": "Can't Bring Me Down",
    "title_variants": [
     "Can't Bring Me Down"
@@ -15606,7 +15544,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00721",
+   "id": "s00717",
    "title": "天河",
    "title_variants": [
     "天河"
@@ -15627,7 +15565,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00722",
+   "id": "s00718",
    "title": "陽光燦爛的日子",
    "title_variants": [
     "陽光燦爛的日子"
@@ -15648,7 +15586,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00723",
+   "id": "s00719",
    "title": "苦瓜",
    "title_variants": [
     "苦瓜"
@@ -15669,7 +15607,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00724",
+   "id": "s00720",
    "title": "睡火山",
    "title_variants": [
     "睡火山"
@@ -15690,7 +15628,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00725",
+   "id": "s00721",
    "title": "昨天",
    "title_variants": [
     "昨天"
@@ -15711,7 +15649,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00726",
+   "id": "s00722",
    "title": "Yellow Fever",
    "title_variants": [
     "Yellow Fever"
@@ -15732,7 +15670,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00727",
+   "id": "s00723",
    "title": "爛命鴛鴦",
    "title_variants": [
     "爛命鴛鴦"
@@ -15753,7 +15691,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00728",
+   "id": "s00724",
    "title": "愛你",
    "title_variants": [
     "愛你"
@@ -15774,7 +15712,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00729",
+   "id": "s00725",
    "title": "山頂嘅朋友",
    "title_variants": [
     "山頂嘅朋友"
@@ -15795,7 +15733,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00730",
+   "id": "s00726",
    "title": "人非草木",
    "title_variants": [
     "人非草木"
@@ -15816,28 +15754,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00731",
-   "title": "年少無知",
-   "title_variants": [
-    "年少無知"
-   ],
-   "artist": "林保怡、陳豪、黃德斌",
-   "artist_variants": [
-    "林保怡、陳豪、黃德斌"
-   ],
-   "families": [
-    "叱咤乐坛流行榜"
-   ],
-   "years": [
-    2013
-   ],
-   "groups": [
-    "叱咤樂壇我最喜愛的歌曲大獎"
-   ],
-   "occurrences": 1
-  },
-  {
-   "id": "s00732",
+   "id": "s00727",
    "title": "雙子情歌",
    "title_variants": [
     "雙子情歌"
@@ -15858,7 +15775,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00733",
+   "id": "s00728",
    "title": "情人甲",
    "title_variants": [
     "情人甲"
@@ -15879,7 +15796,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00734",
+   "id": "s00729",
    "title": "Imperfect",
    "title_variants": [
     "Imperfect"
@@ -15900,7 +15817,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00735",
+   "id": "s00730",
    "title": "半邊生命",
    "title_variants": [
     "半邊生命"
@@ -15921,7 +15838,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00736",
+   "id": "s00731",
    "title": "生我的命",
    "title_variants": [
     "生我的命"
@@ -15942,7 +15859,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00737",
+   "id": "s00732",
    "title": "非凡人生",
    "title_variants": [
     "非凡人生"
@@ -15964,7 +15881,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00738",
+   "id": "s00733",
    "title": "The Science of Crying (眼淚教我的事)",
    "title_variants": [
     "The Science of Crying (眼淚教我的事)"
@@ -15985,7 +15902,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00739",
+   "id": "s00734",
    "title": "無盡",
    "title_variants": [
     "無盡"
@@ -16006,7 +15923,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00740",
+   "id": "s00735",
    "title": "一",
    "title_variants": [
     "一"
@@ -16028,7 +15945,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00741",
+   "id": "s00736",
    "title": "樂觀",
    "title_variants": [
     "樂觀"
@@ -16049,7 +15966,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00742",
+   "id": "s00737",
    "title": "好不容易遇見愛",
    "title_variants": [
     "好不容易遇見愛"
@@ -16070,7 +15987,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00743",
+   "id": "s00738",
    "title": "豔羨",
    "title_variants": [
     "豔羨"
@@ -16091,7 +16008,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00744",
+   "id": "s00739",
    "title": "分手總約在雨天",
    "title_variants": [
     "分手總約在雨天"
@@ -16112,7 +16029,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00745",
+   "id": "s00740",
    "title": "高山低谷",
    "title_variants": [
     "高山低谷"
@@ -16133,28 +16050,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00746",
-   "title": "流淚行勝利道",
-   "title_variants": [
-    "流淚行勝利道"
-   ],
-   "artist": "許志安",
-   "artist_variants": [
-    "許志安"
-   ],
-   "families": [
-    "叱咤乐坛流行榜"
-   ],
-   "years": [
-    2015
-   ],
-   "groups": [
-    "叱咤樂壇我最喜愛的歌曲大獎"
-   ],
-   "occurrences": 1
-  },
-  {
-   "id": "s00747",
+   "id": "s00741",
    "title": "撐起雨傘",
    "title_variants": [
     "撐起雨傘"
@@ -16175,7 +16071,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00748",
+   "id": "s00742",
    "title": "世界真細小",
    "title_variants": [
     "世界真細小"
@@ -16196,14 +16092,13 @@
    "occurrences": 1
   },
   {
-   "id": "s00749",
+   "id": "s00743",
    "title": "最好的債",
    "title_variants": [
     "最好的債"
    ],
-   "artist": "楊千嬅 [ 註 1 ]",
+   "artist": "楊千嬅",
    "artist_variants": [
-    "楊千嬅 [ 註 1 ]",
     "楊千嬅"
    ],
    "families": [
@@ -16219,7 +16114,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00750",
+   "id": "s00744",
    "title": "所有下雨天",
    "title_variants": [
     "所有下雨天"
@@ -16240,7 +16135,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00751",
+   "id": "s00745",
    "title": "挾持",
    "title_variants": [
     "挾持"
@@ -16261,7 +16156,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00752",
+   "id": "s00746",
    "title": "黃昏點唱機",
    "title_variants": [
     "黃昏點唱機"
@@ -16282,7 +16177,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00753",
+   "id": "s00747",
    "title": "我們都是這樣長大的",
    "title_variants": [
     "我們都是這樣長大的"
@@ -16303,7 +16198,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00754",
+   "id": "s00748",
    "title": "幸福之歌",
    "title_variants": [
     "幸福之歌"
@@ -16324,7 +16219,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00755",
+   "id": "s00749",
    "title": "是有種人",
    "title_variants": [
     "是有種人"
@@ -16345,7 +16240,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00756",
+   "id": "s00750",
    "title": "原來她不夠愛我",
    "title_variants": [
     "原來她不夠愛我"
@@ -16366,7 +16261,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00757",
+   "id": "s00751",
    "title": "羅賓",
    "title_variants": [
     "羅賓"
@@ -16387,7 +16282,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00758",
+   "id": "s00752",
    "title": "聲音騷了",
    "title_variants": [
     "聲音騷了"
@@ -16408,28 +16303,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00759",
-   "title": "百姓",
-   "title_variants": [
-    "百姓"
-   ],
-   "artist": "吳業坤",
-   "artist_variants": [
-    "吳業坤"
-   ],
-   "families": [
-    "叱咤乐坛流行榜"
-   ],
-   "years": [
-    2017
-   ],
-   "groups": [
-    "專業推介．叱 十大"
-   ],
-   "occurrences": 1
-  },
-  {
-   "id": "s00760",
+   "id": "s00753",
    "title": "非安全地帶",
    "title_variants": [
     "非安全地帶"
@@ -16450,7 +16324,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00761",
+   "id": "s00754",
    "title": "終於好天氣",
    "title_variants": [
     "終於好天氣"
@@ -16471,7 +16345,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00762",
+   "id": "s00755",
    "title": "卜卜卜",
    "title_variants": [
     "卜卜卜"
@@ -16492,7 +16366,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00763",
+   "id": "s00756",
    "title": "愛情小品",
    "title_variants": [
     "愛情小品"
@@ -16513,7 +16387,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00764",
+   "id": "s00757",
    "title": "你是你本身的傳奇",
    "title_variants": [
     "你是你本身的傳奇"
@@ -16534,7 +16408,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00765",
+   "id": "s00758",
    "title": "沒有你，我什麼都不是",
    "title_variants": [
     "沒有你，我什麼都不是"
@@ -16555,7 +16429,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00766",
+   "id": "s00759",
    "title": "山林道",
    "title_variants": [
     "山林道"
@@ -16576,7 +16450,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00767",
+   "id": "s00760",
    "title": "神奇之旅",
    "title_variants": [
     "神奇之旅"
@@ -16597,7 +16471,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00768",
+   "id": "s00761",
    "title": "靈感床",
    "title_variants": [
     "靈感床"
@@ -16618,7 +16492,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00769",
+   "id": "s00762",
    "title": "Come With Me",
    "title_variants": [
     "Come With Me"
@@ -16639,29 +16513,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00770",
-   "title": "長相廝守",
-   "title_variants": [
-    "長相廝守"
-   ],
-   "artist": "ToNick",
-   "artist_variants": [
-    "ToNick"
-   ],
-   "families": [
-    "叱咤乐坛流行榜"
-   ],
-   "years": [
-    2018
-   ],
-   "groups": [
-    "叱咤樂壇我最喜愛的歌曲大獎",
-    "專業推介．叱 十大"
-   ],
-   "occurrences": 2
-  },
-  {
-   "id": "s00771",
+   "id": "s00763",
    "title": "和每天講再見",
    "title_variants": [
     "和每天講再見"
@@ -16682,7 +16534,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00772",
+   "id": "s00764",
    "title": "Girls Girls Girls",
    "title_variants": [
     "Girls Girls Girls"
@@ -16703,7 +16555,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00773",
+   "id": "s00765",
    "title": "不經不覺",
    "title_variants": [
     "不經不覺"
@@ -16724,7 +16576,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00774",
+   "id": "s00766",
    "title": "傷心到變形",
    "title_variants": [
     "傷心到變形"
@@ -16745,7 +16597,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00775",
+   "id": "s00767",
    "title": "朋友身份",
    "title_variants": [
     "朋友身份"
@@ -16766,7 +16618,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00776",
+   "id": "s00768",
    "title": "一個女人和浴室",
    "title_variants": [
     "一個女人和浴室"
@@ -16787,7 +16639,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00777",
+   "id": "s00769",
    "title": "未來見",
    "title_variants": [
     "未來見"
@@ -16810,14 +16662,14 @@
    "occurrences": 3
   },
   {
-   "id": "s00778",
+   "id": "s00770",
    "title": "可一可再",
    "title_variants": [
     "可一可再"
    ],
-   "artist": "eason and the duo band [ 註 1 ]",
+   "artist": "eason and the duo band",
    "artist_variants": [
-    "eason and the duo band [ 註 1 ]"
+    "eason and the duo band"
    ],
    "families": [
     "叱咤乐坛流行榜"
@@ -16831,7 +16683,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00779",
+   "id": "s00771",
    "title": "天才兒童1985",
    "title_variants": [
     "天才兒童1985"
@@ -16852,7 +16704,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00780",
+   "id": "s00772",
    "title": "錢七",
    "title_variants": [
     "錢七"
@@ -16874,7 +16726,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00781",
+   "id": "s00773",
    "title": "無期",
    "title_variants": [
     "無期"
@@ -16895,14 +16747,14 @@
    "occurrences": 1
   },
   {
-   "id": "s00782",
+   "id": "s00774",
    "title": "沉默的士高",
    "title_variants": [
     "沉默的士高"
    ],
-   "artist": "王菀之 [ 註 1 ]",
+   "artist": "王菀之",
    "artist_variants": [
-    "王菀之 [ 註 1 ]"
+    "王菀之"
    ],
    "families": [
     "叱咤乐坛流行榜"
@@ -16916,7 +16768,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00783",
+   "id": "s00775",
    "title": "（一個男人）一個女人和浴室",
    "title_variants": [
     "（一個男人）一個女人和浴室"
@@ -16937,28 +16789,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00784",
-   "title": "最後的信仰",
-   "title_variants": [
-    "最後的信仰"
-   ],
-   "artist": "林二汶",
-   "artist_variants": [
-    "林二汶"
-   ],
-   "families": [
-    "叱咤乐坛流行榜"
-   ],
-   "years": [
-    2020
-   ],
-   "groups": [
-    "專業推介．叱 十大"
-   ],
-   "occurrences": 1
-  },
-  {
-   "id": "s00785",
+   "id": "s00776",
    "title": "致旅途中的我",
    "title_variants": [
     "致旅途中的我"
@@ -16979,7 +16810,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00786",
+   "id": "s00777",
    "title": "Dream My Dreams",
    "title_variants": [
     "Dream My Dreams"
@@ -17000,7 +16831,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00787",
+   "id": "s00778",
    "title": "努力奮鬥加油",
    "title_variants": [
     "努力奮鬥加油"
@@ -17021,7 +16852,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00788",
+   "id": "s00779",
    "title": "28天",
    "title_variants": [
     "28天"
@@ -17042,7 +16873,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00789",
+   "id": "s00780",
    "title": "一吻穿越四十六億歲",
    "title_variants": [
     "一吻穿越四十六億歲"
@@ -17063,7 +16894,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00790",
+   "id": "s00781",
    "title": "一秒",
    "title_variants": [
     "一秒"
@@ -17084,7 +16915,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00791",
+   "id": "s00782",
    "title": "Reflection",
    "title_variants": [
     "Reflection"
@@ -17105,7 +16936,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00792",
+   "id": "s00783",
    "title": "一號種籽",
    "title_variants": [
     "一號種籽"
@@ -17126,7 +16957,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00793",
+   "id": "s00784",
    "title": "人話",
    "title_variants": [
     "人話"
@@ -17147,7 +16978,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00794",
+   "id": "s00785",
    "title": "IGNITED",
    "title_variants": [
     "IGNITED"
@@ -17168,7 +16999,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00795",
+   "id": "s00786",
    "title": "無力感",
    "title_variants": [
     "無力感"
@@ -17189,7 +17020,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00796",
+   "id": "s00787",
    "title": "地球來的人",
    "title_variants": [
     "地球來的人"
@@ -17210,7 +17041,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00797",
+   "id": "s00788",
    "title": "See You Next Time",
    "title_variants": [
     "See You Next Time"
@@ -17231,7 +17062,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00798",
+   "id": "s00789",
    "title": "暫定",
    "title_variants": [
     "暫定"
@@ -17252,28 +17083,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00799",
-   "title": "感情這回事",
-   "title_variants": [
-    "感情這回事"
-   ],
-   "artist": "陳柏宇",
-   "artist_variants": [
-    "陳柏宇"
-   ],
-   "families": [
-    "叱咤乐坛流行榜"
-   ],
-   "years": [
-    2021
-   ],
-   "groups": [
-    "專業推介．叱 十大"
-   ],
-   "occurrences": 1
-  },
-  {
-   "id": "s00800",
+   "id": "s00790",
    "title": "零分",
    "title_variants": [
     "零分"
@@ -17294,7 +17104,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00801",
+   "id": "s00791",
    "title": "粉碎糖果屋",
    "title_variants": [
     "粉碎糖果屋"
@@ -17315,7 +17125,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00802",
+   "id": "s00792",
    "title": "My Only One",
    "title_variants": [
     "My Only One"
@@ -17336,28 +17146,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00803",
-   "title": "一人之境",
-   "title_variants": [
-    "一人之境"
-   ],
-   "artist": "林家謙",
-   "artist_variants": [
-    "林家謙"
-   ],
-   "families": [
-    "叱咤乐坛流行榜"
-   ],
-   "years": [
-    2021
-   ],
-   "groups": [
-    "叱咤樂壇我最喜愛的歌曲大獎"
-   ],
-   "occurrences": 1
-  },
-  {
-   "id": "s00804",
+   "id": "s00793",
    "title": "正式開始",
    "title_variants": [
     "正式開始"
@@ -17378,7 +17167,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00805",
+   "id": "s00794",
    "title": "蒙著嘴說愛你",
    "title_variants": [
     "蒙著嘴說愛你"
@@ -17399,7 +17188,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00806",
+   "id": "s00795",
    "title": "BOSS",
    "title_variants": [
     "BOSS"
@@ -17420,7 +17209,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00807",
+   "id": "s00796",
    "title": "俏郎君",
    "title_variants": [
     "俏郎君"
@@ -17442,7 +17231,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00808",
+   "id": "s00797",
    "title": "多喝水",
    "title_variants": [
     "多喝水"
@@ -17463,7 +17252,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00809",
+   "id": "s00798",
    "title": "神奇的糊塗魔藥",
    "title_variants": [
     "神奇的糊塗魔藥"
@@ -17484,7 +17273,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00810",
+   "id": "s00799",
    "title": "狂人日記",
    "title_variants": [
     "狂人日記"
@@ -17505,7 +17294,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00811",
+   "id": "s00800",
    "title": "集合吧！地球保衛隊",
    "title_variants": [
     "集合吧！地球保衛隊"
@@ -17526,7 +17315,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00812",
+   "id": "s00801",
    "title": "風的形狀",
    "title_variants": [
     "風的形狀"
@@ -17547,7 +17336,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00813",
+   "id": "s00802",
    "title": "Megahit",
    "title_variants": [
     "Megahit"
@@ -17569,7 +17358,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00814",
+   "id": "s00803",
    "title": "荊棘海",
    "title_variants": [
     "荊棘海"
@@ -17590,7 +17379,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00815",
+   "id": "s00804",
    "title": "Dear My Friend",
    "title_variants": [
     "Dear My Friend"
@@ -17611,7 +17400,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00816",
+   "id": "s00805",
    "title": "E先生 連環不幸事件",
    "title_variants": [
     "E先生 連環不幸事件"
@@ -17632,7 +17421,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00817",
+   "id": "s00806",
    "title": "記憶棉",
    "title_variants": [
     "記憶棉"
@@ -17653,7 +17442,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00818",
+   "id": "s00807",
    "title": "小心地滑",
    "title_variants": [
     "小心地滑"
@@ -17674,7 +17463,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00819",
+   "id": "s00808",
    "title": "到底發生過什麼事",
    "title_variants": [
     "到底發生過什麼事"
@@ -17695,7 +17484,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00820",
+   "id": "s00809",
    "title": "鏡中鏡",
    "title_variants": [
     "鏡中鏡"
@@ -17716,7 +17505,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00821",
+   "id": "s00810",
    "title": "憶年",
    "title_variants": [
     "憶年"
@@ -17737,7 +17526,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00822",
+   "id": "s00811",
    "title": "下流社會",
    "title_variants": [
     "下流社會"
@@ -17758,7 +17547,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00823",
+   "id": "s00812",
    "title": "留一天與你喘息",
    "title_variants": [
     "留一天與你喘息"
@@ -17780,7 +17569,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00824",
+   "id": "s00813",
    "title": "笑住喊",
    "title_variants": [
     "笑住喊"
@@ -17801,7 +17590,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00825",
+   "id": "s00814",
    "title": "我也難過的",
    "title_variants": [
     "我也難過的"
@@ -17822,7 +17611,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00826",
+   "id": "s00815",
    "title": "Freakin' Nightmare",
    "title_variants": [
     "Freakin' Nightmare"
@@ -17843,7 +17632,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00827",
+   "id": "s00816",
    "title": "Mr. Stranger",
    "title_variants": [
     "Mr. Stranger"
@@ -17864,7 +17653,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00828",
+   "id": "s00817",
    "title": "We All Are",
    "title_variants": [
     "We All Are"
@@ -17885,7 +17674,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00829",
+   "id": "s00818",
    "title": "老派約會之必要",
    "title_variants": [
     "老派約會之必要"
@@ -17906,7 +17695,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00830",
+   "id": "s00819",
    "title": "作品的說話",
    "title_variants": [
     "作品的說話"
@@ -17927,7 +17716,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00831",
+   "id": "s00820",
    "title": "Dum Dum",
    "title_variants": [
     "Dum Dum"
@@ -17948,7 +17737,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00832",
+   "id": "s00821",
    "title": "伸縮自如的愛",
    "title_variants": [
     "伸縮自如的愛"
@@ -17969,7 +17758,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00833",
+   "id": "s00822",
    "title": "不如散步",
    "title_variants": [
     "不如散步"
@@ -17990,7 +17779,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00834",
+   "id": "s00823",
    "title": "一把火",
    "title_variants": [
     "一把火"
@@ -18011,7 +17800,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00835",
+   "id": "s00824",
    "title": "濤",
    "title_variants": [
     "濤"
@@ -18033,7 +17822,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00836",
+   "id": "s00825",
    "title": "仍然是那個少年",
    "title_variants": [
     "仍然是那個少年"
@@ -18054,7 +17843,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00837",
+   "id": "s00826",
    "title": "收到收到",
    "title_variants": [
     "收到收到"
@@ -18075,7 +17864,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00838",
+   "id": "s00827",
    "title": "Little Magic",
    "title_variants": [
     "Little Magic"
@@ -18096,7 +17885,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00839",
+   "id": "s00828",
    "title": "E先生 愛人執照",
    "title_variants": [
     "E先生 愛人執照"
@@ -18117,7 +17906,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00840",
+   "id": "s00829",
    "title": "MONEY",
    "title_variants": [
     "MONEY"
@@ -18138,7 +17927,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00841",
+   "id": "s00830",
    "title": "再見 寧靜海",
    "title_variants": [
     "再見 寧靜海"
@@ -18159,7 +17948,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00842",
+   "id": "s00831",
    "title": "間歇性休眠",
    "title_variants": [
     "間歇性休眠"
@@ -18180,7 +17969,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00843",
+   "id": "s00832",
    "title": "九秒九",
    "title_variants": [
     "九秒九"
@@ -18201,7 +17990,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00844",
+   "id": "s00833",
    "title": "至少做一件離譜的事",
    "title_variants": [
     "至少做一件離譜的事"
@@ -18222,7 +18011,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00845",
+   "id": "s00834",
    "title": "藝術 與 科學",
    "title_variants": [
     "藝術 與 科學"
@@ -18243,7 +18032,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00846",
+   "id": "s00835",
    "title": "Hey Hey OK!",
    "title_variants": [
     "Hey Hey OK!"
@@ -18265,7 +18054,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00847",
+   "id": "s00836",
    "title": "戀愛腦之死",
    "title_variants": [
     "戀愛腦之死"
@@ -18286,7 +18075,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00848",
+   "id": "s00837",
    "title": "小心碰頭",
    "title_variants": [
     "小心碰頭"
@@ -18307,7 +18096,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00849",
+   "id": "s00838",
    "title": "以孤獨命名",
    "title_variants": [
     "以孤獨命名"
@@ -18328,7 +18117,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00850",
+   "id": "s00839",
    "title": "好得太過份",
    "title_variants": [
     "好得太過份"
@@ -18349,7 +18138,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00851",
+   "id": "s00840",
    "title": "普渡眾生",
    "title_variants": [
     "普渡眾生"
@@ -18370,7 +18159,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00852",
+   "id": "s00841",
    "title": "50/50",
    "title_variants": [
     "50/50"
@@ -18391,7 +18180,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00853",
+   "id": "s00842",
    "title": "白色踢死兔",
    "title_variants": [
     "白色踢死兔"
@@ -18412,7 +18201,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00854",
+   "id": "s00843",
    "title": "無糖可樂",
    "title_variants": [
     "無糖可樂"
@@ -18433,7 +18222,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00855",
+   "id": "s00844",
    "title": "逆旅",
    "title_variants": [
     "逆旅"
@@ -18454,7 +18243,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00856",
+   "id": "s00845",
    "title": "吉卜力",
    "title_variants": [
     "吉卜力"
@@ -18475,7 +18264,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00857",
+   "id": "s00846",
    "title": "Lemonade",
    "title_variants": [
     "Lemonade"
@@ -18496,7 +18285,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00858",
+   "id": "s00847",
    "title": "On a SunnyDay",
    "title_variants": [
     "On a SunnyDay"
@@ -18517,7 +18306,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00859",
+   "id": "s00848",
    "title": "給千億顆星選中的二人",
    "title_variants": [
     "給千億顆星選中的二人"
@@ -18538,7 +18327,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00860",
+   "id": "s00849",
    "title": "水姻緣",
    "title_variants": [
     "水姻緣"
@@ -18559,7 +18348,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00861",
+   "id": "s00850",
    "title": "冷酷到底",
    "title_variants": [
     "冷酷到底"
@@ -18580,7 +18369,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00862",
+   "id": "s00851",
    "title": "真情人",
    "title_variants": [
     "真情人"
@@ -18601,7 +18390,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00863",
+   "id": "s00852",
    "title": "我要的幸福",
    "title_variants": [
     "我要的幸福"
@@ -18622,7 +18411,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00864",
+   "id": "s00853",
    "title": "笑忘書",
    "title_variants": [
     "笑忘書"
@@ -18643,7 +18432,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00865",
+   "id": "s00854",
    "title": "AMOUR",
    "title_variants": [
     "AMOUR"
@@ -18664,7 +18453,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00866",
+   "id": "s00855",
    "title": "太委屈",
    "title_variants": [
     "太委屈"
@@ -18685,7 +18474,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00867",
+   "id": "s00856",
    "title": "天使也一樣",
    "title_variants": [
     "天使也一樣"
@@ -18706,7 +18495,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00868",
+   "id": "s00857",
    "title": "夢的眼睛",
    "title_variants": [
     "夢的眼睛"
@@ -18727,7 +18516,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00869",
+   "id": "s00858",
    "title": "獨家試唱",
    "title_variants": [
     "獨家試唱"
@@ -18748,7 +18537,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00870",
+   "id": "s00859",
    "title": "NO WAY",
    "title_variants": [
     "NO WAY"
@@ -18769,7 +18558,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00871",
+   "id": "s00860",
    "title": "越愛越好",
    "title_variants": [
     "越愛越好"
@@ -18790,7 +18579,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00872",
+   "id": "s00861",
    "title": "疼你的責任",
    "title_variants": [
     "疼你的責任"
@@ -18811,7 +18600,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00873",
+   "id": "s00862",
    "title": "心酸的浪漫",
    "title_variants": [
     "心酸的浪漫"
@@ -18832,7 +18621,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00874",
+   "id": "s00863",
    "title": "月老",
    "title_variants": [
     "月老"
@@ -18854,7 +18643,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00875",
+   "id": "s00864",
    "title": "邊走邊愛",
    "title_variants": [
     "邊走邊愛"
@@ -18875,7 +18664,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00876",
+   "id": "s00865",
    "title": "揮著翅膀的女孩",
    "title_variants": [
     "揮著翅膀的女孩"
@@ -18896,7 +18685,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00877",
+   "id": "s00866",
    "title": "兄妹",
    "title_variants": [
     "兄妹"
@@ -18917,7 +18706,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00878",
+   "id": "s00867",
    "title": "什麼都不怕",
    "title_variants": [
     "什麼都不怕"
@@ -18938,7 +18727,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00879",
+   "id": "s00868",
    "title": "玫瑰凋謝",
    "title_variants": [
     "玫瑰凋謝"
@@ -18959,7 +18748,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00880",
+   "id": "s00869",
    "title": "閃亮每一天",
    "title_variants": [
     "閃亮每一天"
@@ -18980,7 +18769,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00881",
+   "id": "s00870",
    "title": "我和你",
    "title_variants": [
     "我和你"
@@ -19001,7 +18790,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00882",
+   "id": "s00871",
    "title": "黑色柳丁",
    "title_variants": [
     "黑色柳丁"
@@ -19022,7 +18811,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00883",
+   "id": "s00872",
    "title": "小薇",
    "title_variants": [
     "小薇"
@@ -19043,7 +18832,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00884",
+   "id": "s00873",
    "title": "一個人",
    "title_variants": [
     "一個人"
@@ -19064,7 +18853,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00885",
+   "id": "s00874",
    "title": "絕不能失去你",
    "title_variants": [
     "絕不能失去你"
@@ -19085,7 +18874,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00886",
+   "id": "s00875",
    "title": "我討厭我自己",
    "title_variants": [
     "我討厭我自己"
@@ -19106,7 +18895,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00887",
+   "id": "s00876",
    "title": "蛋炒飯",
    "title_variants": [
     "蛋炒飯"
@@ -19127,7 +18916,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00888",
+   "id": "s00877",
    "title": "放手",
    "title_variants": [
     "放手"
@@ -19148,7 +18937,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00889",
+   "id": "s00878",
    "title": "說愛你",
    "title_variants": [
     "說愛你"
@@ -19169,7 +18958,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00890",
+   "id": "s00879",
    "title": "魔幻季節",
    "title_variants": [
     "魔幻季節"
@@ -19190,7 +18979,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00891",
+   "id": "s00880",
    "title": "神奇",
    "title_variants": [
     "神奇"
@@ -19211,7 +19000,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00892",
+   "id": "s00881",
    "title": "叶惠美",
    "title_variants": [
     "叶惠美"
@@ -19232,7 +19021,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00893",
+   "id": "s00882",
    "title": "星光遊樂園",
    "title_variants": [
     "星光遊樂園"
@@ -19253,7 +19042,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00894",
+   "id": "s00883",
    "title": "原來我有愛",
    "title_variants": [
     "原來我有愛"
@@ -19275,7 +19064,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00895",
+   "id": "s00884",
    "title": "黃種人",
    "title_variants": [
     "黃種人"
@@ -19296,7 +19085,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00896",
+   "id": "s00885",
    "title": "狠狠愛",
    "title_variants": [
     "狠狠愛"
@@ -19317,7 +19106,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00897",
+   "id": "s00886",
    "title": "機器娃娃",
    "title_variants": [
     "機器娃娃"
@@ -19338,7 +19127,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00898",
+   "id": "s00887",
    "title": "邊走邊唱",
    "title_variants": [
     "邊走邊唱"
@@ -19359,7 +19148,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00899",
+   "id": "s00888",
    "title": "大城大事",
    "title_variants": [
     "大城大事"
@@ -19380,7 +19169,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00900",
+   "id": "s00889",
    "title": "愛情倒轉",
    "title_variants": [
     "愛情倒轉"
@@ -19401,7 +19190,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00901",
+   "id": "s00890",
    "title": "北地胭脂",
    "title_variants": [
     "北地胭脂"
@@ -19422,7 +19211,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00902",
+   "id": "s00891",
    "title": "燕尾蝶",
    "title_variants": [
     "燕尾蝶"
@@ -19443,7 +19232,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00903",
+   "id": "s00892",
    "title": "遊牧民族",
    "title_variants": [
     "遊牧民族"
@@ -19464,7 +19253,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00904",
+   "id": "s00893",
    "title": "偏見",
    "title_variants": [
     "偏見"
@@ -19485,7 +19274,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00905",
+   "id": "s00894",
    "title": "愛可以問誰",
    "title_variants": [
     "愛可以問誰"
@@ -19506,7 +19295,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00906",
+   "id": "s00895",
    "title": "痛快",
    "title_variants": [
     "痛快"
@@ -19527,7 +19316,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00907",
+   "id": "s00896",
    "title": "野蠻遊戲",
    "title_variants": [
     "野蠻遊戲"
@@ -19549,7 +19338,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00908",
+   "id": "s00897",
    "title": "天空",
    "title_variants": [
     "天空"
@@ -19570,7 +19359,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00909",
+   "id": "s00898",
    "title": "擔心",
    "title_variants": [
     "擔心"
@@ -19591,7 +19380,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00910",
+   "id": "s00899",
    "title": "出氣球",
    "title_variants": [
     "出氣球"
@@ -19612,7 +19401,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00911",
+   "id": "s00900",
    "title": "對號入座",
    "title_variants": [
     "對號入座"
@@ -19633,7 +19422,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00912",
+   "id": "s00901",
    "title": "倔強",
    "title_variants": [
     "倔強"
@@ -19654,7 +19443,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00913",
+   "id": "s00902",
    "title": "愛情復興",
    "title_variants": [
     "愛情復興"
@@ -19675,7 +19464,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00914",
+   "id": "s00903",
    "title": "八十塊環遊世界",
    "title_variants": [
     "八十塊環遊世界"
@@ -19696,7 +19485,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00915",
+   "id": "s00904",
    "title": "真命天子",
    "title_variants": [
     "真命天子"
@@ -19717,7 +19506,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00916",
+   "id": "s00905",
    "title": "不想長大",
    "title_variants": [
     "不想長大"
@@ -19738,7 +19527,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00917",
+   "id": "s00906",
    "title": "SUPER MODEL",
    "title_variants": [
     "SUPER MODEL"
@@ -19759,7 +19548,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00918",
+   "id": "s00907",
    "title": "約定",
    "title_variants": [
     "約定"
@@ -19780,7 +19569,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00919",
+   "id": "s00908",
    "title": "舞孃",
    "title_variants": [
     "舞孃"
@@ -19802,7 +19591,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00920",
+   "id": "s00909",
    "title": "假裝",
    "title_variants": [
     "假裝"
@@ -19823,7 +19612,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00921",
+   "id": "s00910",
    "title": "不然你要我怎麼樣",
    "title_variants": [
     "不然你要我怎麼樣"
@@ -19844,7 +19633,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00922",
+   "id": "s00911",
    "title": "哎吔吔",
    "title_variants": [
     "哎吔吔"
@@ -19865,7 +19654,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00923",
+   "id": "s00912",
    "title": "狠心的一課",
    "title_variants": [
     "狠心的一課"
@@ -19886,7 +19675,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00924",
+   "id": "s00913",
    "title": "睡美人",
    "title_variants": [
     "睡美人"
@@ -19907,7 +19696,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00925",
+   "id": "s00914",
    "title": "老地方",
    "title_variants": [
     "老地方"
@@ -19928,7 +19717,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00926",
+   "id": "s00915",
    "title": "皇帝",
    "title_variants": [
     "皇帝"
@@ -19949,7 +19738,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00927",
+   "id": "s00916",
    "title": "忘了你是你",
    "title_variants": [
     "忘了你是你"
@@ -19970,7 +19759,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00928",
+   "id": "s00917",
    "title": "曖昧",
    "title_variants": [
     "曖昧"
@@ -19991,7 +19780,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00929",
+   "id": "s00918",
    "title": "寂寞沙洲冷",
    "title_variants": [
     "寂寞沙洲冷"
@@ -20012,7 +19801,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00930",
+   "id": "s00919",
    "title": "迷魂計",
    "title_variants": [
     "迷魂計"
@@ -20033,7 +19822,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00931",
+   "id": "s00920",
    "title": "Beautiful Love",
    "title_variants": [
     "Beautiful Love"
@@ -20054,7 +19843,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00932",
+   "id": "s00921",
    "title": "I Am Who I Am 我就是我",
    "title_variants": [
     "I Am Who I Am 我就是我"
@@ -20076,7 +19865,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00933",
+   "id": "s00922",
    "title": "好聽",
    "title_variants": [
     "好聽"
@@ -20097,7 +19886,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00934",
+   "id": "s00923",
    "title": "不速之客",
    "title_variants": [
     "不速之客"
@@ -20118,7 +19907,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00935",
+   "id": "s00924",
    "title": "將軍令",
    "title_variants": [
     "將軍令"
@@ -20139,7 +19928,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00936",
+   "id": "s00925",
    "title": "春天的微笑",
    "title_variants": [
     "春天的微笑"
@@ -20160,7 +19949,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00937",
+   "id": "s00926",
    "title": "傷城秘密",
    "title_variants": [
     "傷城秘密"
@@ -20181,7 +19970,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00938",
+   "id": "s00927",
    "title": "飆汗",
    "title_variants": [
     "飆汗"
@@ -20202,7 +19991,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00939",
+   "id": "s00928",
    "title": "小小",
    "title_variants": [
     "小小"
@@ -20223,7 +20012,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00940",
+   "id": "s00929",
    "title": "飄零燕",
    "title_variants": [
     "飄零燕"
@@ -20244,7 +20033,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00941",
+   "id": "s00930",
    "title": "牧笛",
    "title_variants": [
     "牧笛"
@@ -20265,7 +20054,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00942",
+   "id": "s00931",
    "title": "心肝寶貝",
    "title_variants": [
     "心肝寶貝"
@@ -20287,7 +20076,7 @@
    "occurrences": 2
   },
   {
-   "id": "s00943",
+   "id": "s00932",
    "title": "她要我 她不愛我",
    "title_variants": [
     "她要我 她不愛我"
@@ -20308,7 +20097,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00944",
+   "id": "s00933",
    "title": "暗戀",
    "title_variants": [
     "暗戀"
@@ -20329,7 +20118,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00945",
+   "id": "s00934",
    "title": "殺手",
    "title_variants": [
     "殺手"
@@ -20350,7 +20139,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00946",
+   "id": "s00935",
    "title": "復活",
    "title_variants": [
     "復活"
@@ -20371,7 +20160,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00947",
+   "id": "s00936",
    "title": "3-7-20-1",
    "title_variants": [
     "3-7-20-1"
@@ -20392,7 +20181,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00948",
+   "id": "s00937",
    "title": "Honey Honey Honey",
    "title_variants": [
     "Honey Honey Honey"
@@ -20413,7 +20202,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00949",
+   "id": "s00938",
    "title": "愛愛愛",
    "title_variants": [
     "愛愛愛"
@@ -20434,7 +20223,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00950",
+   "id": "s00939",
    "title": "中國話",
    "title_variants": [
     "中國話"
@@ -20455,7 +20244,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00951",
+   "id": "s00940",
    "title": "五月天",
    "title_variants": [
     "五月天"
@@ -20476,7 +20265,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00952",
+   "id": "s00941",
    "title": "愛麗絲的第一次",
    "title_variants": [
     "愛麗絲的第一次"
@@ -20497,7 +20286,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00953",
+   "id": "s00942",
    "title": "喜歡一個人好累",
    "title_variants": [
     "喜歡一個人好累"
@@ -20518,7 +20307,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00954",
+   "id": "s00943",
    "title": "怎麼會寂寞",
    "title_variants": [
     "怎麼會寂寞"
@@ -20539,7 +20328,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00955",
+   "id": "s00944",
    "title": "當你離開的時候",
    "title_variants": [
     "當你離開的時候"
@@ -20560,7 +20349,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00956",
+   "id": "s00945",
    "title": "陪我歌唱",
    "title_variants": [
     "陪我歌唱"
@@ -20581,7 +20370,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00957",
+   "id": "s00946",
    "title": "一支獨秀",
    "title_variants": [
     "一支獨秀"
@@ -20602,7 +20391,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00958",
+   "id": "s00947",
    "title": "愛不死",
    "title_variants": [
     "愛不死"
@@ -20623,7 +20412,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00959",
+   "id": "s00948",
    "title": "鬥膽",
    "title_variants": [
     "鬥膽"
@@ -20644,7 +20433,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00960",
+   "id": "s00949",
    "title": "如果愛過",
    "title_variants": [
     "如果愛過"
@@ -20665,7 +20454,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00961",
+   "id": "s00950",
    "title": "分開以後",
    "title_variants": [
     "分開以後"
@@ -20686,7 +20475,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00962",
+   "id": "s00951",
    "title": "I'll Be There",
    "title_variants": [
     "I'll Be There"
@@ -20707,7 +20496,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00963",
+   "id": "s00952",
    "title": "妹妹",
    "title_variants": [
     "妹妹"
@@ -20728,7 +20517,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00964",
+   "id": "s00953",
    "title": "愛你在傷口",
    "title_variants": [
     "愛你在傷口"
@@ -20749,7 +20538,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00965",
+   "id": "s00954",
    "title": "婚禮進行曲",
    "title_variants": [
     "婚禮進行曲"
@@ -20770,7 +20559,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00966",
+   "id": "s00955",
    "title": "夢非夢",
    "title_variants": [
     "夢非夢"
@@ -20791,7 +20580,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00967",
+   "id": "s00956",
    "title": "聽袁淮仁彈吉他",
    "title_variants": [
     "聽袁淮仁彈吉他"
@@ -20812,7 +20601,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00968",
+   "id": "s00957",
    "title": "無辜",
    "title_variants": [
     "無辜"
@@ -20833,7 +20622,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00969",
+   "id": "s00958",
    "title": "什麼年代",
    "title_variants": [
     "什麼年代"
@@ -20854,7 +20643,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00970",
+   "id": "s00959",
    "title": "我們就是力量",
    "title_variants": [
     "我們就是力量"
@@ -20875,7 +20664,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00971",
+   "id": "s00960",
    "title": "新窩",
    "title_variants": [
     "新窩"
@@ -20896,7 +20685,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00972",
+   "id": "s00961",
    "title": "香港心",
    "title_variants": [
     "香港心"
@@ -20917,7 +20706,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00973",
+   "id": "s00962",
    "title": "愛極限",
    "title_variants": [
     "愛極限"
@@ -20938,7 +20727,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00974",
+   "id": "s00963",
    "title": "小酒窩",
    "title_variants": [
     "小酒窩"
@@ -20959,7 +20748,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00975",
+   "id": "s00964",
    "title": "我是傳奇",
    "title_variants": [
     "我是傳奇"
@@ -20980,7 +20769,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00976",
+   "id": "s00965",
    "title": "迷魂陣",
    "title_variants": [
     "迷魂陣"
@@ -21001,7 +20790,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00977",
+   "id": "s00966",
    "title": "尋愛旅程",
    "title_variants": [
     "尋愛旅程"
@@ -21022,7 +20811,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00978",
+   "id": "s00967",
    "title": "淚情書",
    "title_variants": [
     "淚情書"
@@ -21043,7 +20832,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00979",
+   "id": "s00968",
    "title": "妥協",
    "title_variants": [
     "妥協"
@@ -21064,7 +20853,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00980",
+   "id": "s00969",
    "title": "我只是想要幸福",
    "title_variants": [
     "我只是想要幸福"
@@ -21085,7 +20874,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00981",
+   "id": "s00970",
    "title": "相對後動物感傷",
    "title_variants": [
     "相對後動物感傷"
@@ -21106,7 +20895,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00982",
+   "id": "s00971",
    "title": "王妃",
    "title_variants": [
     "王妃"
@@ -21127,7 +20916,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00983",
+   "id": "s00972",
    "title": "日光",
    "title_variants": [
     "日光"
@@ -21148,7 +20937,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00984",
+   "id": "s00973",
    "title": "送給你的歌",
    "title_variants": [
     "送給你的歌"
@@ -21169,7 +20958,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00985",
+   "id": "s00974",
    "title": "如果愛",
    "title_variants": [
     "如果愛"
@@ -21190,7 +20979,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00986",
+   "id": "s00975",
    "title": "你們的愛",
    "title_variants": [
     "你們的愛"
@@ -21211,7 +21000,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00987",
+   "id": "s00976",
    "title": "Be With You",
    "title_variants": [
     "Be With You"
@@ -21232,7 +21021,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00988",
+   "id": "s00977",
    "title": "這就是愛嗎",
    "title_variants": [
     "這就是愛嗎"
@@ -21253,7 +21042,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00989",
+   "id": "s00978",
    "title": "良藥苦口",
    "title_variants": [
     "良藥苦口"
@@ -21274,7 +21063,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00990",
+   "id": "s00979",
    "title": "Fun Run",
    "title_variants": [
     "Fun Run"
@@ -21295,7 +21084,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00991",
+   "id": "s00980",
    "title": "107國度",
    "title_variants": [
     "107國度"
@@ -21316,7 +21105,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00992",
+   "id": "s00981",
    "title": "比翼雙飛",
    "title_variants": [
     "比翼雙飛"
@@ -21337,7 +21126,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00993",
+   "id": "s00982",
    "title": "撐腰",
    "title_variants": [
     "撐腰"
@@ -21358,7 +21147,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00994",
+   "id": "s00983",
    "title": "大丈夫",
    "title_variants": [
     "大丈夫"
@@ -21379,7 +21168,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00995",
+   "id": "s00984",
    "title": "你的承諾",
    "title_variants": [
     "你的承諾"
@@ -21400,7 +21189,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00996",
+   "id": "s00985",
    "title": "兄弟",
    "title_variants": [
     "兄弟"
@@ -21421,7 +21210,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00997",
+   "id": "s00986",
    "title": "一種快樂一種苦",
    "title_variants": [
     "一種快樂一種苦"
@@ -21442,7 +21231,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00998",
+   "id": "s00987",
    "title": "話太普通",
    "title_variants": [
     "話太普通"
@@ -21463,7 +21252,7 @@
    "occurrences": 1
   },
   {
-   "id": "s00999",
+   "id": "s00988",
    "title": "滴滴滴",
    "title_variants": [
     "滴滴滴"
@@ -21484,7 +21273,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01000",
+   "id": "s00989",
    "title": "雙人舞",
    "title_variants": [
     "雙人舞"
@@ -21505,7 +21294,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01001",
+   "id": "s00990",
    "title": "氣管炎",
    "title_variants": [
     "氣管炎"
@@ -21526,7 +21315,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01002",
+   "id": "s00991",
    "title": "然後怎樣",
    "title_variants": [
     "然後怎樣"
@@ -21547,7 +21336,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01003",
+   "id": "s00992",
    "title": "魚罐頭",
    "title_variants": [
     "魚罐頭"
@@ -21568,7 +21357,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01004",
+   "id": "s00993",
    "title": "怎麼開始忘了",
    "title_variants": [
     "怎麼開始忘了"
@@ -21589,7 +21378,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01005",
+   "id": "s00994",
    "title": "讓我照顧你",
    "title_variants": [
     "讓我照顧你"
@@ -21610,7 +21399,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01006",
+   "id": "s00995",
    "title": "愛情躲避球",
    "title_variants": [
     "愛情躲避球"
@@ -21631,7 +21420,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01007",
+   "id": "s00996",
    "title": "詩與胡說",
    "title_variants": [
     "詩與胡說"
@@ -21652,7 +21441,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01008",
+   "id": "s00997",
    "title": "歲月輕狂",
    "title_variants": [
     "歲月輕狂"
@@ -21674,7 +21463,7 @@
    "occurrences": 2
   },
   {
-   "id": "s01009",
+   "id": "s00998",
    "title": "有ME就好",
    "title_variants": [
     "有ME就好"
@@ -21695,7 +21484,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01010",
+   "id": "s00999",
    "title": "信今生愛過",
    "title_variants": [
     "信今生愛過"
@@ -21716,7 +21505,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01011",
+   "id": "s01000",
    "title": "知己",
    "title_variants": [
     "知己"
@@ -21740,7 +21529,7 @@
    "occurrences": 2
   },
   {
-   "id": "s01012",
+   "id": "s01001",
    "title": "天使的決定",
    "title_variants": [
     "天使的決定"
@@ -21761,7 +21550,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01013",
+   "id": "s01002",
    "title": "我們很好",
    "title_variants": [
     "我們很好"
@@ -21782,7 +21571,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01014",
+   "id": "s01003",
    "title": "哭過就好了",
    "title_variants": [
     "哭過就好了"
@@ -21803,7 +21592,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01015",
+   "id": "s01004",
    "title": "1+1",
    "title_variants": [
     "1+1"
@@ -21824,7 +21613,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01016",
+   "id": "s01005",
    "title": "Happy Day",
    "title_variants": [
     "Happy Day"
@@ -21845,7 +21634,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01017",
+   "id": "s01006",
    "title": "說謊",
    "title_variants": [
     "說謊"
@@ -21866,7 +21655,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01018",
+   "id": "s01007",
    "title": "Say a lil Something",
    "title_variants": [
     "Say a lil Something"
@@ -21887,7 +21676,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01019",
+   "id": "s01008",
    "title": "新不了情",
    "title_variants": [
     "新不了情"
@@ -21908,7 +21697,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01020",
+   "id": "s01009",
    "title": "GPM",
    "title_variants": [
     "GPM"
@@ -21929,7 +21718,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01021",
+   "id": "s01010",
    "title": "我是不是該安靜的走開",
    "title_variants": [
     "我是不是該安靜的走開"
@@ -21950,7 +21739,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01022",
+   "id": "s01011",
    "title": "A.I.N.Y.",
    "title_variants": [
     "A.I.N.Y."
@@ -21971,7 +21760,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01023",
+   "id": "s01012",
    "title": "我記得我愛過",
    "title_variants": [
     "我記得我愛過"
@@ -21992,7 +21781,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01024",
+   "id": "s01013",
    "title": "舞可取代",
    "title_variants": [
     "舞可取代"
@@ -22013,7 +21802,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01025",
+   "id": "s01014",
    "title": "Do You Wanna Dance",
    "title_variants": [
     "Do You Wanna Dance"
@@ -22034,7 +21823,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01026",
+   "id": "s01015",
    "title": "當我愛上了你之後",
    "title_variants": [
     "當我愛上了你之後"
@@ -22055,7 +21844,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01027",
+   "id": "s01016",
    "title": "Love @ Earth",
    "title_variants": [
     "Love @ Earth"
@@ -22076,7 +21865,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01028",
+   "id": "s01017",
    "title": "幾米的距離",
    "title_variants": [
     "幾米的距離"
@@ -22097,7 +21886,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01029",
+   "id": "s01018",
    "title": "東方兒女",
    "title_variants": [
     "東方兒女"
@@ -22118,7 +21907,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01030",
+   "id": "s01019",
    "title": "背叛．被判",
    "title_variants": [
     "背叛．被判"
@@ -22139,7 +21928,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01031",
+   "id": "s01020",
    "title": "無人認領",
    "title_variants": [
     "無人認領"
@@ -22160,7 +21949,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01032",
+   "id": "s01021",
    "title": "桃花源",
    "title_variants": [
     "桃花源"
@@ -22181,7 +21970,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01033",
+   "id": "s01022",
    "title": "夜店",
    "title_variants": [
     "夜店"
@@ -22202,7 +21991,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01034",
+   "id": "s01023",
    "title": "給你",
    "title_variants": [
     "給你"
@@ -22223,7 +22012,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01035",
+   "id": "s01024",
    "title": "愛不再",
    "title_variants": [
     "愛不再"
@@ -22244,7 +22033,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01036",
+   "id": "s01025",
    "title": "Baby Baby",
    "title_variants": [
     "Baby Baby"
@@ -22265,7 +22054,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01037",
+   "id": "s01026",
    "title": "Simple Love Song",
    "title_variants": [
     "Simple Love Song"
@@ -22286,7 +22075,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01038",
+   "id": "s01027",
    "title": "好的事情",
    "title_variants": [
     "好的事情"
@@ -22307,7 +22096,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01039",
+   "id": "s01028",
    "title": "盛宴",
    "title_variants": [
     "盛宴"
@@ -22328,7 +22117,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01040",
+   "id": "s01029",
    "title": "壞了",
    "title_variants": [
     "壞了"
@@ -22349,7 +22138,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01041",
+   "id": "s01030",
    "title": "風無心",
    "title_variants": [
     "風無心"
@@ -22370,7 +22159,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01042",
+   "id": "s01031",
    "title": "爺爺",
    "title_variants": [
     "爺爺"
@@ -22391,7 +22180,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01043",
+   "id": "s01032",
    "title": "情人知己",
    "title_variants": [
     "情人知己"
@@ -22412,7 +22201,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01044",
+   "id": "s01033",
    "title": "3650",
    "title_variants": [
     "3650"
@@ -22433,7 +22222,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01045",
+   "id": "s01034",
    "title": "四度空間",
    "title_variants": [
     "四度空間"
@@ -22454,7 +22243,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01046",
+   "id": "s01035",
    "title": "讓我愛你一小時",
    "title_variants": [
     "讓我愛你一小時"
@@ -22475,7 +22264,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01047",
+   "id": "s01036",
    "title": "台北下著雨的星期天",
    "title_variants": [
     "台北下著雨的星期天"
@@ -22496,7 +22285,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01048",
+   "id": "s01037",
    "title": "因為愛情",
    "title_variants": [
     "因為愛情"
@@ -22517,7 +22306,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01049",
+   "id": "s01038",
    "title": "等你愛我",
    "title_variants": [
     "等你愛我"
@@ -22538,7 +22327,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01050",
+   "id": "s01039",
    "title": "窮我一生",
    "title_variants": [
     "窮我一生"
@@ -22559,7 +22348,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01051",
+   "id": "s01040",
    "title": "Baby Don't Cry",
    "title_variants": [
     "Baby Don't Cry"
@@ -22580,7 +22369,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01052",
+   "id": "s01041",
    "title": "Pink Girls",
    "title_variants": [
     "Pink Girls"
@@ -22601,7 +22390,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01053",
+   "id": "s01042",
    "title": "夠朋友",
    "title_variants": [
     "夠朋友"
@@ -22622,7 +22411,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01054",
+   "id": "s01043",
    "title": "愛上你就是唯一",
    "title_variants": [
     "愛上你就是唯一"
@@ -22643,7 +22432,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01055",
+   "id": "s01044",
    "title": "You And I",
    "title_variants": [
     "You And I"
@@ -22664,7 +22453,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01056",
+   "id": "s01045",
    "title": "雀班",
    "title_variants": [
     "雀班"
@@ -22685,7 +22474,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01057",
+   "id": "s01046",
    "title": "相愛不到老",
    "title_variants": [
     "相愛不到老"
@@ -22706,7 +22495,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01058",
+   "id": "s01047",
    "title": "剩下的幸福",
    "title_variants": [
     "剩下的幸福"
@@ -22727,7 +22516,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01059",
+   "id": "s01048",
    "title": "脆弱",
    "title_variants": [
     "脆弱"
@@ -22748,7 +22537,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01060",
+   "id": "s01049",
    "title": "你根本不是我的誰",
    "title_variants": [
     "你根本不是我的誰"
@@ -22769,7 +22558,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01061",
+   "id": "s01050",
    "title": "孤獨患者",
    "title_variants": [
     "孤獨患者"
@@ -22790,7 +22579,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01062",
+   "id": "s01051",
    "title": "不屬於我的淚",
    "title_variants": [
     "不屬於我的淚"
@@ -22811,7 +22600,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01063",
+   "id": "s01052",
    "title": "霧裡看花",
    "title_variants": [
     "霧裡看花"
@@ -22832,7 +22621,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01064",
+   "id": "s01053",
    "title": "為什麼",
    "title_variants": [
     "為什麼"
@@ -22853,7 +22642,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01065",
+   "id": "s01054",
    "title": "胡鬧",
    "title_variants": [
     "胡鬧"
@@ -22874,7 +22663,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01066",
+   "id": "s01055",
    "title": "頑石點頭",
    "title_variants": [
     "頑石點頭"
@@ -22895,7 +22684,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01067",
+   "id": "s01056",
    "title": "一天一天",
    "title_variants": [
     "一天一天"
@@ -22916,7 +22705,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01068",
+   "id": "s01057",
    "title": "他不是你",
    "title_variants": [
     "他不是你"
@@ -22937,7 +22726,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01069",
+   "id": "s01058",
    "title": "有我在",
    "title_variants": [
     "有我在"
@@ -22958,7 +22747,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01070",
+   "id": "s01059",
    "title": "喘息",
    "title_variants": [
     "喘息"
@@ -22979,7 +22768,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01071",
+   "id": "s01060",
    "title": "Oh Boy",
    "title_variants": [
     "Oh Boy"
@@ -23000,7 +22789,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01072",
+   "id": "s01061",
    "title": "兩人三腳",
    "title_variants": [
     "兩人三腳"
@@ -23021,7 +22810,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01073",
+   "id": "s01062",
    "title": "Don't Wake Me Up",
    "title_variants": [
     "Don't Wake Me Up"
@@ -23042,7 +22831,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01074",
+   "id": "s01063",
    "title": "澀谷",
    "title_variants": [
     "澀谷"
@@ -23063,7 +22852,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01075",
+   "id": "s01064",
    "title": "我們都傻",
    "title_variants": [
     "我們都傻"
@@ -23084,7 +22873,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01076",
+   "id": "s01065",
    "title": "配角",
    "title_variants": [
     "配角"
@@ -23105,7 +22894,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01077",
+   "id": "s01066",
    "title": "安全感",
    "title_variants": [
     "安全感"
@@ -23126,7 +22915,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01078",
+   "id": "s01067",
    "title": "BB88",
    "title_variants": [
     "BB88"
@@ -23147,7 +22936,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01079",
+   "id": "s01068",
    "title": "說到愛",
    "title_variants": [
     "說到愛",
@@ -23171,7 +22960,7 @@
    "occurrences": 2
   },
   {
-   "id": "s01080",
+   "id": "s01069",
    "title": "Sexy Body",
    "title_variants": [
     "Sexy Body"
@@ -23192,7 +22981,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01081",
+   "id": "s01070",
    "title": "李小龍",
    "title_variants": [
     "李小龍"
@@ -23213,7 +23002,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01082",
+   "id": "s01071",
    "title": "Dance",
    "title_variants": [
     "Dance"
@@ -23234,7 +23023,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01083",
+   "id": "s01072",
    "title": "我的愛傷了風",
    "title_variants": [
     "我的愛傷了風"
@@ -23255,7 +23044,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01084",
+   "id": "s01073",
    "title": "自以為",
    "title_variants": [
     "自以為"
@@ -23276,7 +23065,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01085",
+   "id": "s01074",
    "title": "搖籃曲",
    "title_variants": [
     "搖籃曲"
@@ -23297,7 +23086,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01086",
+   "id": "s01075",
    "title": "越開心越寂寞",
    "title_variants": [
     "越開心越寂寞"
@@ -23318,7 +23107,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01087",
+   "id": "s01076",
    "title": "水漫金山",
    "title_variants": [
     "水漫金山"
@@ -23339,7 +23128,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01088",
+   "id": "s01077",
    "title": "沸騰的心",
    "title_variants": [
     "沸騰的心"
@@ -23360,7 +23149,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01089",
+   "id": "s01078",
    "title": "Stay With You Tonight",
    "title_variants": [
     "Stay With You Tonight"
@@ -23381,7 +23170,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01090",
+   "id": "s01079",
    "title": "錯配",
    "title_variants": [
     "錯配"
@@ -23402,7 +23191,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01091",
+   "id": "s01080",
    "title": "留不下來",
    "title_variants": [
     "留不下來"
@@ -23423,7 +23212,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01092",
+   "id": "s01081",
    "title": "不停夢想",
    "title_variants": [
     "不停夢想"
@@ -23444,7 +23233,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01093",
+   "id": "s01082",
    "title": "我不要",
    "title_variants": [
     "我不要"
@@ -23465,7 +23254,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01094",
+   "id": "s01083",
    "title": "破繭",
    "title_variants": [
     "破繭"
@@ -23486,7 +23275,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01095",
+   "id": "s01084",
    "title": "正好",
    "title_variants": [
     "正好"
@@ -23507,7 +23296,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01096",
+   "id": "s01085",
    "title": "留不住",
    "title_variants": [
     "留不住"
@@ -23528,7 +23317,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01097",
+   "id": "s01086",
    "title": "La La La",
    "title_variants": [
     "La La La"
@@ -23549,7 +23338,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01098",
+   "id": "s01087",
    "title": "幸福的詮釋",
    "title_variants": [
     "幸福的詮釋"
@@ -23570,7 +23359,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01099",
+   "id": "s01088",
    "title": "我明白",
    "title_variants": [
     "我明白"
@@ -23591,7 +23380,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01100",
+   "id": "s01089",
    "title": "怕想起你",
    "title_variants": [
     "怕想起你"
@@ -23612,7 +23401,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01101",
+   "id": "s01090",
    "title": "不奇幻漂流",
    "title_variants": [
     "不奇幻漂流"
@@ -23633,7 +23422,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01102",
+   "id": "s01091",
    "title": "世界也能夠感受",
    "title_variants": [
     "世界也能夠感受"
@@ -23654,7 +23443,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01103",
+   "id": "s01092",
    "title": "加大力度",
    "title_variants": [
     "加大力度"
@@ -23676,7 +23465,7 @@
    "occurrences": 2
   },
   {
-   "id": "s01104",
+   "id": "s01093",
    "title": "零度的親吻",
    "title_variants": [
     "零度的親吻"
@@ -23697,7 +23486,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01105",
+   "id": "s01094",
    "title": "太平洋的風",
    "title_variants": [
     "太平洋的風"
@@ -23716,7 +23505,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01106",
+   "id": "s01095",
    "title": "台灣製造",
    "title_variants": [
     "台灣製造"
@@ -23735,7 +23524,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01107",
+   "id": "s01096",
    "title": "孫子兵法",
    "title_variants": [
     "孫子兵法"
@@ -23754,7 +23543,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01108",
+   "id": "s01097",
    "title": "下一個天亮",
    "title_variants": [
     "下一個天亮"
@@ -23773,7 +23562,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01109",
+   "id": "s01098",
    "title": "100種生活",
    "title_variants": [
     "100種生活"
@@ -23792,7 +23581,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01110",
+   "id": "s01099",
    "title": "你不是真正的快樂",
    "title_variants": [
     "你不是真正的快樂"
@@ -23811,7 +23600,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01111",
+   "id": "s01100",
    "title": "國境之南",
    "title_variants": [
     "國境之南"
@@ -23830,7 +23619,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01112",
+   "id": "s01101",
    "title": "稻香",
    "title_variants": [
     "稻香"
@@ -23849,7 +23638,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01113",
+   "id": "s01102",
    "title": "好膽你就來",
    "title_variants": [
     "好膽你就來"
@@ -23868,7 +23657,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01114",
+   "id": "s01103",
    "title": "在樹上唱歌",
    "title_variants": [
     "在樹上唱歌"
@@ -23887,7 +23676,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01115",
+   "id": "s01104",
    "title": "亡命之徒",
    "title_variants": [
     "亡命之徒"
@@ -23906,7 +23695,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01116",
+   "id": "s01105",
    "title": "魚",
    "title_variants": [
     "魚"
@@ -23925,7 +23714,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01117",
+   "id": "s01106",
    "title": "超人不會飛",
    "title_variants": [
     "超人不會飛"
@@ -23944,7 +23733,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01118",
+   "id": "s01107",
    "title": "完美孤獨",
    "title_variants": [
     "完美孤獨"
@@ -23963,7 +23752,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01119",
+   "id": "s01108",
    "title": "重傷",
    "title_variants": [
     "重傷"
@@ -23982,7 +23771,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01120",
+   "id": "s01109",
    "title": "給自己的歌",
    "title_variants": [
     "給自己的歌"
@@ -24001,7 +23790,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01121",
+   "id": "s01110",
    "title": "當時欲嫁",
    "title_variants": [
     "當時欲嫁"
@@ -24020,7 +23809,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01122",
+   "id": "s01111",
    "title": "你不知道的事",
    "title_variants": [
     "你不知道的事"
@@ -24039,7 +23828,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01123",
+   "id": "s01112",
    "title": "回味永恆‧承諾",
    "title_variants": [
     "回味永恆‧承諾"
@@ -24058,7 +23847,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01124",
+   "id": "s01113",
    "title": "無言歌 蓋亞",
    "title_variants": [
     "無言歌 蓋亞"
@@ -24077,7 +23866,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01125",
+   "id": "s01114",
    "title": "海岸線海岸線",
    "title_variants": [
     "海岸線海岸線"
@@ -24096,7 +23885,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01126",
+   "id": "s01115",
    "title": "玫瑰色的你 神的遊戲",
    "title_variants": [
     "玫瑰色的你 神的遊戲"
@@ -24115,7 +23904,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01127",
+   "id": "s01116",
    "title": "大藝術家 Muse",
    "title_variants": [
     "大藝術家 Muse"
@@ -24134,7 +23923,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01128",
+   "id": "s01117",
    "title": "流浪者之歌",
    "title_variants": [
     "流浪者之歌"
@@ -24155,7 +23944,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01129",
+   "id": "s01118",
    "title": "姐姐",
    "title_variants": [
     "姐姐"
@@ -24176,7 +23965,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01130",
+   "id": "s01119",
    "title": "入陣曲",
    "title_variants": [
     "入陣曲"
@@ -24197,7 +23986,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01131",
+   "id": "s01120",
    "title": "山丘",
    "title_variants": [
     "山丘"
@@ -24218,7 +24007,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01132",
+   "id": "s01121",
    "title": "用餘生去愛",
    "title_variants": [
     "用餘生去愛"
@@ -24239,7 +24028,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01133",
+   "id": "s01122",
    "title": "偏執面",
    "title_variants": [
     "偏執面"
@@ -24260,7 +24049,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01134",
+   "id": "s01123",
    "title": "島嶼天光",
    "title_variants": [
     "島嶼天光"
@@ -24281,7 +24070,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01135",
+   "id": "s01124",
    "title": "Play我呸",
    "title_variants": [
     "Play我呸"
@@ -24302,7 +24091,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01136",
+   "id": "s01125",
    "title": "母系社會",
    "title_variants": [
     "母系社會"
@@ -24323,7 +24112,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01137",
+   "id": "s01126",
    "title": "不為誰而作的歌",
    "title_variants": [
     "不為誰而作的歌"
@@ -24344,7 +24133,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01138",
+   "id": "s01127",
    "title": "下雨的夜晚",
    "title_variants": [
     "下雨的夜晚"
@@ -24365,7 +24154,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01139",
+   "id": "s01128",
    "title": "小幸運",
    "title_variants": [
     "小幸運"
@@ -24386,7 +24175,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01140",
+   "id": "s01129",
    "title": "年輪說",
    "title_variants": [
     "年輪說"
@@ -24407,7 +24196,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01141",
+   "id": "s01130",
    "title": "蹦孔",
    "title_variants": [
     "蹦孔"
@@ -24428,7 +24217,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01142",
+   "id": "s01131",
    "title": "我們的總和",
    "title_variants": [
     "我們的總和"
@@ -24449,7 +24238,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01143",
+   "id": "s01132",
    "title": "頑固",
    "title_variants": [
     "頑固"
@@ -24470,7 +24259,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01144",
+   "id": "s01133",
    "title": "大風吹",
    "title_variants": [
     "大風吹"
@@ -24491,7 +24280,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01145",
+   "id": "s01134",
    "title": "離心力",
    "title_variants": [
     "離心力"
@@ -24512,7 +24301,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01146",
+   "id": "s01135",
    "title": "天真有邪",
    "title_variants": [
     "天真有邪"
@@ -24533,7 +24322,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01147",
+   "id": "s01136",
    "title": "長途夜車",
    "title_variants": [
     "長途夜車"
@@ -24554,7 +24343,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01148",
+   "id": "s01137",
    "title": "魚仔",
    "title_variants": [
     "魚仔"
@@ -24575,7 +24364,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01149",
+   "id": "s01138",
    "title": "致觀音山",
    "title_variants": [
     "致觀音山"
@@ -24596,7 +24385,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01150",
+   "id": "s01139",
    "title": "偉大的渺小",
    "title_variants": [
     "偉大的渺小"
@@ -24617,7 +24406,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01151",
+   "id": "s01140",
    "title": "北風",
    "title_variants": [
     "北風"
@@ -24638,7 +24427,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01152",
+   "id": "s01141",
    "title": "沙漠、駱駝、男人、女人",
    "title_variants": [
     "沙漠、駱駝、男人、女人"
@@ -24659,7 +24448,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01153",
+   "id": "s01142",
    "title": "我還有夢",
    "title_variants": [
     "我還有夢"
@@ -24680,7 +24469,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01154",
+   "id": "s01143",
    "title": "客途秋恨",
    "title_variants": [
     "客途秋恨"
@@ -24701,7 +24490,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01155",
+   "id": "s01144",
    "title": "將你的靈魂接在我的線路上",
    "title_variants": [
     "將你的靈魂接在我的線路上"
@@ -24722,7 +24511,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01156",
+   "id": "s01145",
    "title": "做總統有機會",
    "title_variants": [
     "做總統有機會"
@@ -24743,7 +24532,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01157",
+   "id": "s01146",
    "title": "單身逃亡",
    "title_variants": [
     "單身逃亡"
@@ -24764,7 +24553,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01158",
+   "id": "s01147",
    "title": "裙擺飛揚",
    "title_variants": [
     "裙擺飛揚"
@@ -24785,7 +24574,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01159",
+   "id": "s01148",
    "title": "夢醒時分",
    "title_variants": [
     "夢醒時分"
@@ -24806,7 +24595,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01160",
+   "id": "s01149",
    "title": "海裡睡人",
    "title_variants": [
     "海裡睡人"
@@ -24827,7 +24616,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01161",
+   "id": "s01150",
    "title": "玫瑰少年",
    "title_variants": [
     "玫瑰少年"
@@ -24848,7 +24637,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01162",
+   "id": "s01151",
    "title": "沙文",
    "title_variants": [
     "沙文"
@@ -24869,7 +24658,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01163",
+   "id": "s01152",
    "title": "十七",
    "title_variants": [
     "十七"
@@ -24890,7 +24679,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01164",
+   "id": "s01153",
    "title": "新寫的舊歌",
    "title_variants": [
     "新寫的舊歌"
@@ -24911,7 +24700,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01165",
+   "id": "s01154",
    "title": "浪流連",
    "title_variants": [
     "浪流連"
@@ -24932,7 +24721,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01166",
+   "id": "s01155",
    "title": "遠行",
    "title_variants": [
     "遠行"
@@ -24953,7 +24742,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01167",
+   "id": "s01156",
    "title": "Without You",
    "title_variants": [
     "Without You"
@@ -24974,7 +24763,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01168",
+   "id": "s01157",
    "title": "摩天動物園",
    "title_variants": [
     "摩天動物園"
@@ -24995,7 +24784,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01169",
+   "id": "s01158",
    "title": "鬼島",
    "title_variants": [
     "鬼島"
@@ -25016,7 +24805,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01170",
+   "id": "s01159",
    "title": "Thank You",
    "title_variants": [
     "Thank You"
@@ -25037,7 +24826,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01171",
+   "id": "s01160",
    "title": "雙城記",
    "title_variants": [
     "雙城記"
@@ -25058,7 +24847,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01172",
+   "id": "s01161",
    "title": "伯父",
    "title_variants": [
     "伯父"
@@ -25079,7 +24868,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01173",
+   "id": "s01162",
    "title": "若是明仔載",
    "title_variants": [
     "若是明仔載"
@@ -25100,7 +24889,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01174",
+   "id": "s01163",
    "title": "在這座城市遺失了你",
    "title_variants": [
     "在這座城市遺失了你"
@@ -25121,7 +24910,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01175",
+   "id": "s01164",
    "title": "Maava 擁抱",
    "title_variants": [
     "Maava 擁抱"
@@ -25142,7 +24931,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01176",
+   "id": "s01165",
    "title": "因為你 所以我",
    "title_variants": [
     "因為你 所以我"
@@ -25163,7 +24952,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01177",
+   "id": "s01166",
    "title": "刻在我心底的名字",
    "title_variants": [
     "刻在我心底的名字"
@@ -25184,7 +24973,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01178",
+   "id": "s01167",
    "title": "Bluebirds",
    "title_variants": [
     "Bluebirds"
@@ -25205,7 +24994,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01179",
+   "id": "s01168",
    "title": "奶奶",
    "title_variants": [
     "奶奶"
@@ -25226,7 +25015,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01180",
+   "id": "s01169",
    "title": "玻璃心",
    "title_variants": [
     "玻璃心"
@@ -25247,7 +25036,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01181",
+   "id": "s01170",
    "title": "如果可以",
    "title_variants": [
     "如果可以"
@@ -25268,7 +25057,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01182",
+   "id": "s01171",
    "title": "愛情你比我想的閣較偉大",
    "title_variants": [
     "愛情你比我想的閣較偉大"
@@ -25289,7 +25078,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01183",
+   "id": "s01172",
    "title": "跑馬燈 DEATH TRIP",
    "title_variants": [
     "跑馬燈 DEATH TRIP"
@@ -25310,7 +25099,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01184",
+   "id": "s01173",
    "title": "雛形",
    "title_variants": [
     "雛形"
@@ -25331,7 +25120,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01185",
+   "id": "s01174",
    "title": "明室",
    "title_variants": [
     "明室"
@@ -25352,7 +25141,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01186",
+   "id": "s01175",
    "title": "最偉大的作品",
    "title_variants": [
     "最偉大的作品"
@@ -25373,7 +25162,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01187",
+   "id": "s01176",
    "title": "新世紀的女兒",
    "title_variants": [
     "新世紀的女兒"
@@ -25394,7 +25183,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01188",
+   "id": "s01177",
    "title": "最好的時光",
    "title_variants": [
     "最好的時光"
@@ -25415,7 +25204,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01189",
+   "id": "s01178",
    "title": "Semane sepi夢",
    "title_variants": [
     "Semane sepi夢"
@@ -25436,7 +25225,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01190",
+   "id": "s01179",
    "title": "墮落",
    "title_variants": [
     "墮落"
@@ -25457,7 +25246,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01191",
+   "id": "s01180",
    "title": "家和萬事興",
    "title_variants": [
     "家和萬事興"
@@ -25478,7 +25267,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01192",
+   "id": "s01181",
    "title": "又到天黑",
    "title_variants": [
     "又到天黑"
@@ -25499,7 +25288,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01193",
+   "id": "s01182",
    "title": "但",
    "title_variants": [
     "但"
@@ -25520,7 +25309,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01194",
+   "id": "s01183",
    "title": "樓上的房東",
    "title_variants": [
     "樓上的房東"
@@ -25541,7 +25330,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01195",
+   "id": "s01184",
    "title": "離別總是那麼突然",
    "title_variants": [
     "離別總是那麼突然"
@@ -25562,7 +25351,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01196",
+   "id": "s01185",
    "title": "BUNUN 布農",
    "title_variants": [
     "BUNUN 布農"
@@ -25583,7 +25372,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01197",
+   "id": "s01186",
    "title": "手機錢包鑰匙菸",
    "title_variants": [
     "手機錢包鑰匙菸"
@@ -25604,7 +25393,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01198",
+   "id": "s01187",
    "title": "偏南風",
    "title_variants": [
     "偏南風"
@@ -25625,7 +25414,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01199",
+   "id": "s01188",
    "title": "Young Man",
    "title_variants": [
     "Young Man"
@@ -25646,7 +25435,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01200",
+   "id": "s01189",
    "title": "星期五晚上",
    "title_variants": [
     "星期五晚上"
@@ -25667,7 +25456,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01201",
+   "id": "s01190",
    "title": "才二十三",
    "title_variants": [
     "才二十三"
@@ -25688,7 +25477,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01202",
+   "id": "s01191",
    "title": "這樣很好",
    "title_variants": [
     "這樣很好"
@@ -25709,7 +25498,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01203",
+   "id": "s01192",
    "title": "足芳足芳",
    "title_variants": [
     "足芳足芳"
@@ -25730,7 +25519,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01204",
+   "id": "s01193",
    "title": "三菜一湯 In the Middle",
    "title_variants": [
     "三菜一湯 In the Middle"
@@ -25751,7 +25540,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01205",
+   "id": "s01194",
    "title": "浪人的...",
    "title_variants": [
     "浪人的..."
@@ -25772,7 +25561,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01206",
+   "id": "s01195",
    "title": "Pleasure",
    "title_variants": [
     "Pleasure"
@@ -25793,7 +25582,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01207",
+   "id": "s01196",
    "title": "老翅膀",
    "title_variants": [
     "老翅膀"
@@ -25814,7 +25603,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01208",
+   "id": "s01197",
    "title": "如果每天都可以 happy happy 誰想要sad:))",
    "title_variants": [
     "如果每天都可以 happy happy 誰想要sad:))"
@@ -25835,7 +25624,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01209",
+   "id": "s01198",
    "title": "我的存在就是愛你",
    "title_variants": [
     "我的存在就是愛你"
@@ -25856,7 +25645,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01210",
+   "id": "s01199",
    "title": "幸福在歌唱",
    "title_variants": [
     "幸福在歌唱"
@@ -25877,7 +25666,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01211",
+   "id": "s01200",
    "title": "甜蜜与杀害",
    "title_variants": [
     "甜蜜与杀害"
@@ -25898,7 +25687,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01212",
+   "id": "s01201",
    "title": "追梦赤子心",
    "title_variants": [
     "追梦赤子心"
@@ -25919,7 +25708,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01213",
+   "id": "s01202",
    "title": "花",
    "title_variants": [
     "花"
@@ -25940,7 +25729,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01214",
+   "id": "s01203",
    "title": "sex drugs internet",
    "title_variants": [
     "sex drugs internet"
@@ -25961,7 +25750,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01215",
+   "id": "s01204",
    "title": "两手空空",
    "title_variants": [
     "两手空空"
@@ -25982,7 +25771,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01216",
+   "id": "s01205",
    "title": "家在北极村",
    "title_variants": [
     "家在北极村"
@@ -26003,7 +25792,7 @@
    "occurrences": 1
   },
   {
-   "id": "s01217",
+   "id": "s01206",
    "title": "I'll be there/在你身边",
    "title_variants": [
     "I'll be there/在你身边"

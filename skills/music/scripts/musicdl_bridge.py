@@ -81,6 +81,10 @@ def main():
         return
 
     op = req.get("op")
+
+    if op == "health":
+        real_stdout.write(json.dumps({"ok": True, "data": {"musicdl": getattr(musicdl, "__version__", "unknown")}}))
+        return
     sources = req.get("sources") or [
         "MiguMusicClient", "NeteaseMusicClient",
         "QQMusicClient", "KuwoMusicClient", "QianqianMusicClient",

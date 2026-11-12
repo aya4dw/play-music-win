@@ -23,6 +23,7 @@ BOGUS_TITLES = {
     "歌曲", "編號", "编号", "排名", "歌名", "曲名", "演唱", "主唱",
     "獎項", "奖项", "金曲", "十大中文金曲", "十大中文金曲獎", "待定",
 }
+WIKI_NOTE = re.compile(r"\[\s*(?:註|注|nb|Note)?\s*\d+\s*\]", flags=re.I)
 TAIL_NOTE = re.compile(
     r"\s*[（(]\s*(?:粤语|粵語|国语|國語|粤|粵|国|國|live|Live|LIVE|"
     r"remix|Remix|版|伴奏|纯音乐|純音樂)\s*[：:]?\s*[^）)]{0,12}[）)]\s*$"
@@ -31,6 +32,7 @@ TAIL_NOTE = re.compile(
 
 def clean_title(t):
     t = CC.convert((t or "").strip())
+    t = WIKI_NOTE.sub("", t).strip()
     prev = None
     while prev != t:
         prev = t
@@ -38,7 +40,7 @@ def clean_title(t):
     return t
 
 
-AWARD_ARTIST = ("最佳", "入圍", "入围", "大獎", "大奖", "金獎", "金奖", "銀獎", "银奖",
+AWARD_ARTIST = ("最佳", "唱片", "大碟", "专辑", "專輯", "EP", "原聲", "原声", "入圍", "入围", "大獎", "大奖", "金獎", "金奖", "銀獎", "银奖",
                 "至尊", "最受歡迎", "最受欢迎", "傳媒", "传媒", "榮譽", "荣誉",
                 "新人", "優秀", "优秀", "唱作", "年度")
 
@@ -49,6 +51,7 @@ def looks_like_award(a):
 
 def primary_artist(a):
     a = CC.convert((a or "").strip())
+    a = WIKI_NOTE.sub("", a).strip()
     a = re.split(r"\s*(?:、|,|，|&|／|/|feat\.|ft\.|with)\s*", a, flags=re.I)[0]
     return a.strip()
 
